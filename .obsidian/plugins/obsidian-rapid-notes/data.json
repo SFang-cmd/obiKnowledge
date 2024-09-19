@@ -1,0 +1,39 @@
+{
+  "prefixedFolders": [
+    {
+      "folder": "sophFall/CIS2400",
+      "prefix": "systems",
+      "filenamePrefix": "",
+      "addCommand": false
+    },
+    {
+      "folder": "sophFall/CIS5190",
+      "prefix": "ml",
+      "filenamePrefix": "",
+      "addCommand": false
+    },
+    {
+      "folder": "sophFall/CIS 5810",
+      "prefix": "cv",
+      "filenamePrefix": "",
+      "addCommand": false
+    },
+    {
+      "folder": "sophFall/MGMT2670",
+      "prefix": "mgmt",
+      "filenamePrefix": "",
+      "addCommand": false
+    },
+    {
+      "folder": "sophFall/STAT4300",
+      "prefix": "stats",
+      "filenamePrefix": "",
+      "addCommand": false
+    }
+  ],
+  "forceFileCreation": false,
+  "showModalSuggestions": true,
+  "capitalizeFilename": true,
+  "escapeSymbol": "/",
+  "realPrefixSeparator": " "
+}

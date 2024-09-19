@@ -1,0 +1,3 @@
+- The study of language as it is used in everyday life
+- The study of how people's language use reflects their social background, identity, and context
+- The study of how linguistic variability in communities of language users can accumulate into language change over the longer term

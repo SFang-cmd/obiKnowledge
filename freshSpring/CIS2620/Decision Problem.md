@@ -1,0 +1,1 @@
+A problem with a simple yes/no answer $(0,1)$. Typically the strategy to answer [[Language]] problems

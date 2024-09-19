@@ -1,0 +1,1 @@
+**Model of computation:** The study of how an input can be transformed to an output

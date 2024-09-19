@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "eaab0eced2ff533e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d571edd686f6a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da0164ee4c8363a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Computer Vision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d696dd3e9c8db6b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIS 5810 Course Logistics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "365eec0bb96ef51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Lecture 1) Camera Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1255c933ef26ac36",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "e3804bf24fd02ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Lecture 2) Convolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffcf7b5d4661982b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Lecture 4) Edge Detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e1db2f1c1e626c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Lecture 5) Canny Edge Detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9e6b193aa7d8904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Lecture 6) Image Pyramid and Scaling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "899712c342b72dc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e00848a811fbd9aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2caeb6dede7ffef8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5b30461fc58b064",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4b23c8328f2d85b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cbc24622bcaa0f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "66ac286ab021d3af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "182f7ad44720335b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "(Lecture 6) Image Pyramid and Scaling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3ca33006c6a4ec2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "(Lecture 6) Image Pyramid and Scaling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e41741956cdab94a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b79152d517183d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "(Lecture 6) Image Pyramid and Scaling.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b9e6b193aa7d8904",
+  "lastOpenFiles": [
+    "(Lecture 5) Canny Edge Detection.md",
+    "(Lecture 6) Image Pyramid and Scaling.md",
+    "(Lecture 4) Edge Detection.md",
+    "(Lecture 2) Convolution.md",
+    "(Lecture 3) Convolution Review and Examples.md",
+    "Pasted image 20240905110745.png",
+    "Pasted image 20240905110611.png",
+    "Pasted image 20240905105539.png",
+    "Pasted image 20240905102656.png",
+    "CIS 5810 Course Logistics.md",
+    "(Lecture 1) Camera Design.md",
+    "Intro to Computer Vision.md"
+  ]
+}

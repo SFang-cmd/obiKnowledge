@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "d8dc5d164c171366",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7c60e2ceef32c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "102a1dea0cc981ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading Notes/The Questions Every Entrepreneur Must Answer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc17416cbd7a9fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Lecture 1) Intro to Technology Entrepreneurship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da93fd5ebaf99137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Lecture 2) Inventions & Entrepreneurs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6010ddf1b491f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Lecture 2) Inventions & Entrepreneurs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17b2eb5e21ac4f6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "90621d6a77e9a4fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6903a748df6d44a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "736940a0e81fa4b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0af2e5312bc3b20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0a1ae9a908535344",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eba0ce08f97e3e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "676d8562dd2bb827",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "(Lecture 2) Inventions & Entrepreneurs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cf2c069e395f946",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "(Lecture 2) Inventions & Entrepreneurs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6bbc7d90d04de6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c78bd1c6270fb32b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "(Lecture 2) Inventions & Entrepreneurs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c6010ddf1b491f2e",
+  "lastOpenFiles": [
+    "(Lecture 3) IP & How to Profit from New Technology?.md",
+    "(Lecture 2) Inventions & Entrepreneurs.md",
+    "(Lecture 1) Intro to Technology Entrepreneurship.md",
+    "Reading Notes/The Questions Every Entrepreneur Must Answer.md",
+    "Reading Notes"
+  ]
+}

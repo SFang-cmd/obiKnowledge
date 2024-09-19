@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2c358fc852e8aae0",
+        "id": "98ec22f40c0a9ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "a0513368dee22abc",
+            "id": "6fd06f0be0d3b3c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "703967e8dea4828b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md"
+              }
             }
           },
           {
@@ -150,8 +171,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a0513368dee22abc",
+  "active": "703967e8dea4828b",
   "lastOpenFiles": [
-    "Welcome.md"
+    "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
+    "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
+    "sophFall/CIS2400/(Lecture 1b) Basics of C Programming.md",
+    "sophFall/CIS2400/(Lecture 1) Intro to C Cont'd.md",
+    "sophFall/CIS2400/(Lecture 2) Bits & Bytes.md",
+    "sophFall/CIS2400/(Lecture 2b) Bits & Bytes in Code (C).md",
+    "sophFall/CIS2400/(Lecture 3) Binary Wrap Up & Basic C Memory Model.md",
+    "sophFall/CIS2400/(Lecture 4) C Memory Models.md",
+    "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
+    "sophFall/CIS2400/(Lecture 6) Building a C Program.md",
+    "sophFall/STAT4300/(Lecture 2) Definitions.md",
+    "Welcome.md",
+    "sophFall/STAT4300/F.md",
+    "sophFall/STAT4300/Bruh.md",
+    "sophFall",
+    "freshSum",
+    "freshSpring",
+    "freshFall",
+    "Untitled.md",
+    "sophFall/STAT4300/Pasted image 20240918123009.png",
+    "sophFall/STAT4300/Pasted image 20240916125254.png",
+    "sophFall/STAT4300/(Lecture 6) Bayes Rule.md",
+    "sophFall/STAT4300/(Lecture 5).md",
+    "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
+    "sophFall/STAT4300/(Lecture 3) Equally Likely Outcomes.md",
+    "sophFall/STAT4300/(Lecture 1) Introduction to Probability.md",
+    "sophFall/STAT4300",
+    "freshSpring/phys0151/Electric Charge and Electric Fields.md",
+    "freshSpring/phys0151/Physics E&M.md",
+    "freshSpring/phys0151/Electric Flux.md",
+    "freshSpring/phys0151/Electric Field.md",
+    "freshSpring/phys0151",
+    "sophFall/MGMT2670/Reading Notes/The Questions Every Entrepreneur Must Answer.md",
+    "sophFall/MGMT2670/Reading Notes",
+    "sophFall/MGMT2670/(Lecture 3) IP & How to Profit from New Technology?.md",
+    "sophFall/MGMT2670",
+    "freshFall/math1410/chapter4/Pasted image 20231126205458.png",
+    "freshFall/math1410/chapter4/Pasted image 20231126201941.png",
+    "freshFall/math1410/chapter9",
+    "freshFall/math1410/Pasted image 20231207233217.png",
+    "freshFall/math1410/chapter4",
+    "freshFall/math1410/Pasted image 20231207225719.png",
+    "freshFall/math1410/Pasted image 20231128170000.png",
+    "freshFall/math1410/Pasted image 20231128165753.png",
+    "freshFall/math1410/Pasted image 20231128165230.png",
+    "freshFall/math1410/Pasted image 20231128164105.png"
   ]
 }

@@ -1,0 +1,5 @@
+- [[Inter-speaker variation]] *(Unit 1):* different individuals have different [[Linguistics]] systems
+	- If different people in your group have different judgments about which vowels are part of the same [[lexical sets]], that's an example of inter-speaker variation.
+- [[Intra-speaker variation]] *(Unit 2):* Any given individual pronounces things differently (or uses different words, or different grammatical constructions) in different particular utterances
+	- Technically vowels are always variable within-speaker!
+	- But also examples like *working/workin'*

@@ -1,0 +1,5 @@
+- Differences in which **distinctive** sounds are used in a word
+	- Difference in the categories of vowels
+	- i.e. There are different [[lexical sets]] available
+- If people in your group are disagreeing about lexical sets, that's an example of phonological variation!
+- Phonological variation can also be about a single speaker using different pronunciations of the same word - like working vs workin'

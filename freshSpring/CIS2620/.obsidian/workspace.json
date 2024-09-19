@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "8767fae26b442c78",
+    "type": "split",
+    "children": [
+      {
+        "id": "6810a80af5de8a0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea79df0a1504d289",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7aff025242486ed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Turing Machines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a571da70ef1138a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reductions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13e54c31ef67f643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Property of Languages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58201ba87a63c576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reductions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baabf3fc15b48834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reductions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fa80ca7b3f8204d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "041524.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35f1d2409f626e60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "041724.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cb74046f3b39844",
+    "type": "split",
+    "children": [
+      {
+        "id": "3884c66f93879347",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcfa4945ccadda1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76df7261171b3d29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7013392a326d48d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3f4e2e60c646909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distinguishable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "right": {
+    "id": "49000fdfc73c8333",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7ea8e9ea47452df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42cf1fb84f422693",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "041724.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60bf552b28be65e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "041724.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd6bad06f4af17b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "498d80c46c73284d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "041724.md"
+              }
+            }
+          },
+          {
+            "id": "e2a42de7c561c388",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "35f1d2409f626e60",
+  "lastOpenFiles": [
+    "041524.md",
+    "041724.md",
+    "Reductions.md",
+    "Property of Languages.md",
+    "Closure Properties of Regular Languages.md",
+    "Property Problem of Languages.md",
+    "040324 Lecture.md",
+    "Undecidable Languages.md",
+    "Turing Machines.md",
+    "Time Complexity.md",
+    "Definitions.md",
+    "Untitled.md",
+    "Recitation 022324.md",
+    "Non-Deterministic Finite Automata (NFA).md",
+    "String Examples.md",
+    "String.md",
+    "String Concatenation.md",
+    "Epsilon-NFAs.md",
+    "Extended Transition Function Example.md",
+    "Calculation of Non-Regular Languages.md",
+    "Extended Transition Function.md",
+    "Distinguishable.md",
+    "Recitation 021624.md",
+    "Alphabet.md",
+    "Nonregular Language Examples.md",
+    "Recitation 012623 Notes.md"
+  ]
+}

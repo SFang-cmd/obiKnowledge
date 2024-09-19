@@ -1,0 +1,4 @@
+- When we talk about vowels in this class, we will always mean [[Vowel]] SOUNDS - not letters
+- English has alot more vowel sounds than A E I O U!
+	- Exactly how many depends on the variety of English
+- Linguists mostly use a system called the International Phonetic Alphabet ([[IPA]]) to notate vowels

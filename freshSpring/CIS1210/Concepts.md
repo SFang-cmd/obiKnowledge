@@ -1,0 +1,1 @@
+Usually always express graph runtime in terms of $n$ and $m$, unless runtime is greater than $n^2$, in which case $m$ will always be smaller (worse case, complete graph has $\frac{n(n-1)}{2}=O(n^2)$ edges)

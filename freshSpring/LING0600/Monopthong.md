@@ -1,0 +1,1 @@
+A [[Vowel]] with only one continuous sound

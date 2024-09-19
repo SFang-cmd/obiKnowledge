@@ -1,0 +1,1 @@
+The study of how speech **sound** categories are organized in a language, subfield of [[[Linguistics]]]

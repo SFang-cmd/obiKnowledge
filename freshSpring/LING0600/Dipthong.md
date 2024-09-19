@@ -1,0 +1,1 @@
+A [[Vowel]] in which the vowel sound transitions from one vowel space to another vowel space (oi!)
