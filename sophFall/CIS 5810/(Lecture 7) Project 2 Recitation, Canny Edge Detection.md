@@ -16,3 +16,6 @@
 3. Edge Orientation
 4. Non-maximum Suppression
 5. Hysteresis
+
+(Live Demo)
+https://colab.research.google.com/drive/1rG2eMU5rmSm9fJkkSgwy5CMXLtcmYjt5#scrollTo=BAiXmUKs5F22
