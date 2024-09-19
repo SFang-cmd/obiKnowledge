@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98ec22f40c0a9ff3",
+        "id": "3ad7b154311d2e68",
         "type": "tabs",
         "children": [
           {
-            "id": "6fd06f0be0d3b3c8",
+            "id": "c4d48eeaf586bb8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "703967e8dea4828b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
+                "file": "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
+                "file": "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
+                "file": "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md"
+                "file": "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md"
               }
             }
           },
@@ -154,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +158,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6fd06f0be0d3b3c8",
+  "active": "c4d48eeaf586bb8c",
   "lastOpenFiles": [
-    "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
+    "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
     "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
+    "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
     "sophFall/CIS2400/(Lecture 1b) Basics of C Programming.md",
     "sophFall/CIS2400/(Lecture 1) Intro to C Cont'd.md",
     "sophFall/CIS2400/(Lecture 2) Bits & Bytes.md",
@@ -205,7 +195,6 @@
     "freshSpring/phys0151",
     "sophFall/MGMT2670/Reading Notes/The Questions Every Entrepreneur Must Answer.md",
     "sophFall/MGMT2670/Reading Notes",
-    "sophFall/MGMT2670/(Lecture 3) IP & How to Profit from New Technology?.md",
     "sophFall/MGMT2670",
     "freshFall/math1410/chapter4/Pasted image 20231126205458.png",
     "freshFall/math1410/chapter4/Pasted image 20231126201941.png",

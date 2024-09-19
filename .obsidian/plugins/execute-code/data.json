@@ -106,7 +106,7 @@
   "fsharpInject": "",
   "fsharpFileExtension": "fsx",
   "cArgs": "",
-  "cUseMain": true,
+  "cUseMain": false,
   "cInject": "",
   "rubyPath": "ruby",
   "rubyArgs": "",
