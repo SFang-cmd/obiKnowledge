@@ -31,3 +31,8 @@ void main(int argc, char *argv) {
 ```
 - Should copy the bytes themselves into temp (since `char` are each 1 byte)
 
+```C
+#include <stdio.h>
+
+printf("Hello, World!");
+```
