@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
+                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
+                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
+                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md"
+                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "c4d48eeaf586bb8c",
   "lastOpenFiles": [
+    "sophFall/CIS2400/(Lecture 6) Building a C Program.md",
+    "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
+    "sophFall/CIS2400/(Lecture 4) C Memory Models.md",
     "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
     "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
     "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
@@ -168,9 +171,6 @@
     "sophFall/CIS2400/(Lecture 2) Bits & Bytes.md",
     "sophFall/CIS2400/(Lecture 2b) Bits & Bytes in Code (C).md",
     "sophFall/CIS2400/(Lecture 3) Binary Wrap Up & Basic C Memory Model.md",
-    "sophFall/CIS2400/(Lecture 4) C Memory Models.md",
-    "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
-    "sophFall/CIS2400/(Lecture 6) Building a C Program.md",
     "sophFall/STAT4300/(Lecture 2) Definitions.md",
     "Welcome.md",
     "sophFall/STAT4300/F.md",
