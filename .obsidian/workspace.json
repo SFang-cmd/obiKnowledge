@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
+                "file": "sophFall/STAT4300/(Lecture 6) Bayes Rule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3815055a75db8db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
+                "file": "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
+                "file": "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md"
+                "file": "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md"
               }
             }
           },
@@ -158,8 +171,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c4d48eeaf586bb8c",
+  "active": "a3815055a75db8db",
   "lastOpenFiles": [
+    "(Lecture.md",
+    "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
+    "sophFall/STAT4300/(Lecture 6) Bayes Rule.md",
+    "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
     "sophFall/CIS5190/(Lecture 3) Linear Regression (Cont'd).md",
     "sophFall/CIS5190/(Lecture 5) Final Linear Regression and Logistic Regression.md",
     "sophFall/CIS5190/(Lecture 6) Evaluating Classification Performance.md",
@@ -184,14 +201,10 @@
     "freshSum",
     "freshSpring",
     "freshFall",
-    "Untitled.md",
     "sophFall/STAT4300/Pasted image 20240918123009.png",
     "sophFall/STAT4300/Pasted image 20240916125254.png",
-    "sophFall/STAT4300/(Lecture 6) Bayes Rule.md",
     "sophFall/STAT4300/(Lecture 5).md",
     "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
-    "sophFall/STAT4300/(Lecture 3) Equally Likely Outcomes.md",
-    "sophFall/STAT4300/(Lecture 1) Introduction to Probability.md",
     "sophFall/STAT4300",
     "freshSpring/phys0151",
     "sophFall/MGMT2670/Reading Notes",
