@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
+                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
+                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
+                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md"
+                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md"
               }
             }
           },
@@ -160,11 +160,16 @@
   },
   "active": "c4d48eeaf586bb8c",
   "lastOpenFiles": [
+    "sophFall/CIS5190/(Lecture 3) Linear Regression (Cont'd).md",
+    "sophFall/CIS5190/(Lecture 5) Final Linear Regression and Logistic Regression.md",
+    "sophFall/CIS5190/(Lecture 6) Evaluating Classification Performance.md",
+    "sophFall/CIS5190/CIS 5190 Intro - Applied Machine Learning.md",
+    "sophFall/CIS5190/(Lecture 1b) Types of Learning Problems.md",
+    "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
     "sophFall/CIS2400/(Lecture 6) Building a C Program.md",
     "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
     "sophFall/CIS2400/(Lecture 4) C Memory Models.md",
     "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
-    "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
     "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
     "sophFall/CIS2400/(Lecture 1b) Basics of C Programming.md",
     "sophFall/CIS2400/(Lecture 1) Intro to C Cont'd.md",
@@ -188,12 +193,7 @@
     "sophFall/STAT4300/(Lecture 3) Equally Likely Outcomes.md",
     "sophFall/STAT4300/(Lecture 1) Introduction to Probability.md",
     "sophFall/STAT4300",
-    "freshSpring/phys0151/Electric Charge and Electric Fields.md",
-    "freshSpring/phys0151/Physics E&M.md",
-    "freshSpring/phys0151/Electric Flux.md",
-    "freshSpring/phys0151/Electric Field.md",
     "freshSpring/phys0151",
-    "sophFall/MGMT2670/Reading Notes/The Questions Every Entrepreneur Must Answer.md",
     "sophFall/MGMT2670/Reading Notes",
     "sophFall/MGMT2670",
     "freshFall/math1410/chapter4/Pasted image 20231126205458.png",
