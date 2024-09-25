@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bef8abecb9470ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/CIS 5810/(Lecture 8) Image Transform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 8) CMOS & Gates.md",
+                "file": "sophFall/CIS 5810/(Lecture 8) Image Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 8) CMOS & Gates.md",
+                "file": "sophFall/CIS 5810/(Lecture 8) Image Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 8) CMOS & Gates.md"
+                "file": "sophFall/CIS 5810/(Lecture 8) Image Transform.md"
               }
             }
           },
@@ -183,10 +195,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "58ce345e06386bd1",
+  "active": "bef8abecb9470ab6",
   "lastOpenFiles": [
-    "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
     "sophFall/CIS2400/(Lecture 8) CMOS & Gates.md",
+    "sophFall/CIS 5810/(Lecture 8) Image Transform.md",
+    "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
     "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
     "(Lecture.md",
     "sophFall/STAT4300/(Lecture 6) Bayes Rule.md",
@@ -216,7 +229,6 @@
     "freshFall",
     "sophFall/STAT4300/Pasted image 20240918123009.png",
     "sophFall/STAT4300/Pasted image 20240916125254.png",
-    "sophFall/STAT4300/(Lecture 5).md",
     "sophFall/STAT4300",
     "freshSpring/phys0151",
     "sophFall/MGMT2670/Reading Notes",
