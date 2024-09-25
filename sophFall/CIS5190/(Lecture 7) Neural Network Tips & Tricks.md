@@ -1,0 +1,66 @@
+**Recap:**
+- **Representation Learning:** *automatically* learn good features for tasks
+- **Deep Learning:** learn multiple levels of representation at *increasing* levels of complexity
+- **Feedforward Neural Networks:** input layer, hidden layers, output layer
+
+**Supervised Learning setup:**
+- Specification:
+	- Data - cleaned and well-defined or not well defined?
+	- Model - Right number of layers and nodes
+- Design a loss: function of (model parameters, data)
+	- Maximize the probability of the data
+	- Tried to explain the dataset according to minimizing loss
+- End-to-end Learning:
+	- Optimize objective over data
+	- Learn All Network Parameters
+- Gradient-Based Optimization:
+	- $\theta^(t+1)=\theta^{t}-\mu \Delta_{\theta}L(\theta)$
+- Gradients via **Backpropogation** - first feed data all the way forward, then backpropogate from the last weight all the way to the first weight backwards
+
+**Neural Network Tips & Tricks:**
+- Optimization: 
+	- Sample data is separated into pieces (batches) which we use to update our model
+		- $\theta=\theta-\mu \Delta Loss(x)$
+		- The gradient is updated after each "mini-batch", which is a randomized set of elements from the training set, which we can train for multiple "batches" (epoch)
+	- Narrow Valley problem: What happens if we hit a small saddle point, but can go down further?
+	- Accelerated Gradient Descent:
+		- Vanilla gradient descent:
+			- $\theta \leftarrow \theta-\alpha \Delta_{\theta}L(f_{\theta}(x),y)$
+		- Accelerated gradient descent (momentum):
+			- $p \leftarrow \mu \rho - \alpha \Delta_{\theta}L(f_{\theta}(x),y)$
+			- $\theta \leftarrow \theta + \rho$
+		- Essentially, $\rho$ holds the last $\rho$ which "preserves" part of the direction it was going in last time, and just subtracts current loss from the last direction, instead of subtracting from 0
+		- Intuition: Instead of just estimating the gradient, we combine the momentum to find the more accurate step, which we can even improve more using nesterov momentum (on the right)
+![[Pasted image 20240925105147.png]]
+- Adaptive Learning Rates
+	- **AdaGrad:** Letting $g=\Delta_{\beta}L(f_{\beta}(x),y)$, we have
+		- $G \leftarrow G + g^2$ and $\theta \leftarrow \theta - \frac{\alpha}{\sqrt{ G }}\cdot g$
+	- **RMSProp:** Use exponential moving average instead:
+		- $G \leftarrow \lambda \cdot G + (1-\lambda)^{2}g^{2}$ and $\beta \leftarrow \beta - \frac{\alpha}{\sqrt{ G }}\cdot g$
+	- **Adam:** Similar to RMSProp, but with both the first and second moments of the gradients
+		- $G \leftarrow \lambda G + (1 - \lambda) g^2$
+		- $g' \leftarrow \lambda' g' + (1-\lambda')g$
+		- $\theta\leftarrow \alpha \frac{g'}{\sqrt{ G }}$
+		- Intuition: RMSProp with momentum
+		- **Most commonly used optimizer**
+- Activation Functions
+	- Historically, used a sigmoid function, but gradient in many places for sigmoid is almost zero; makes values update way slower
+	- ![[Pasted image 20240925111204.png]]
+	- Instead: ReLU Activation:
+		- $g(z)=max\{0,z\}$
+		- Gradient now positive on the entire region $z \geq 0$
+		- Significant performance gains for deep neural networks
+	- Leaky ReLU Activation
+		- When input is negative, $ay$ instead of $0$
+		- $g(z)=max\{ay,y\}$, where $a$ is a fractional number
+- Managing Weights
+	- Weight initialization
+	- Zero initialization: Very bad choice!
+		- All neurons $z_{i}=g(w_{i}^{T}x)$ in a given layer remain identical
+		- **Intuition:** they start out equal, so their gradients are equal; thus, the weights will update at the same rate in the same direction, etc.
+	- **Kaiming Initialization ("He initialization")**
+		- For ReLU activations, use $W_{j}\sim N\left( \frac{0,2}{d_{in}} \right)$
+	- **Xavier Initialization**
+		- 
+- Dropout
+- Managing Training
