@@ -71,16 +71,26 @@
             "id": "ea56f44b35f9ca89",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "sophFall/CIS5190/Pasted image 20240925111204.png"
+              }
+            }
+          },
+          {
+            "id": "68443f83d57c02d1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
+                "file": "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
+                "file": "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
+                "file": "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md"
+                "file": "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md"
               }
             }
           },
@@ -219,13 +229,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ea56f44b35f9ca89",
+  "active": "68443f83d57c02d1",
   "lastOpenFiles": [
-    "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
+    "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md",
+    "sophFall/CIS5190/Pasted image 20240925111204.png",
+    "sophFall/CIS5190/Pasted image 20240925105147.png",
     "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
+    "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
     "sophFall/CIS5190/(Lecture 7) Neural Network Tips & Tricks.md",
-    "Pasted image 20240925111204.png",
-    "Pasted image 20240925105147.png",
     "sophFall/CIS 5810/(Lecture 8) Image Transform.md",
     "sophFall/CIS2400/(Lecture 8) CMOS & Gates.md",
     "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
@@ -247,8 +258,6 @@
     "sophFall/CIS2400/(Lecture 2) Bits & Bytes.md",
     "sophFall/CIS2400/(Lecture 2b) Bits & Bytes in Code (C).md",
     "sophFall/CIS2400/(Lecture 3) Binary Wrap Up & Basic C Memory Model.md",
-    "sophFall/STAT4300/(Lecture 2) Definitions.md",
-    "Welcome.md",
     "sophFall",
     "freshSum",
     "freshSpring",
