@@ -40,3 +40,6 @@
 **Combined Adder/Subtractor:**
 - Approach 1: Take the adder and subtractor and feed it into a mux to change between an adder and subtractor
 - Approach 2: Take adder and mux it with input B to output either `B` or `~B`. Then take this input and adder into input and return `0` or `1`
+
+**Creating a Multiplier**
+- Combinatorial Multiplier using adders & muxes

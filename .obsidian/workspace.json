@@ -83,14 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md",
+                "file": "sophFall/CIS 5810/(Lecture 8) Image Transform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5bb60ca56790ea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md",
+                "file": "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md",
+                "file": "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md"
+                "file": "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md"
               }
             }
           },
@@ -229,15 +241,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "68443f83d57c02d1",
+  "active": "c5bb60ca56790ea3",
   "lastOpenFiles": [
+    "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md",
+    "sophFall/CIS 5810/(Lecture 8) Image Transform.md",
     "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md",
     "sophFall/CIS5190/Pasted image 20240925111204.png",
     "sophFall/CIS5190/Pasted image 20240925105147.png",
     "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
     "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
     "sophFall/CIS5190/(Lecture 7) Neural Network Tips & Tricks.md",
-    "sophFall/CIS 5810/(Lecture 8) Image Transform.md",
     "sophFall/CIS2400/(Lecture 8) CMOS & Gates.md",
     "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
     "(Lecture.md",
