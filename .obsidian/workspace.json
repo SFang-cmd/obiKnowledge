@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md",
+                "file": "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md",
+                "file": "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md",
+                "file": "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md"
+                "file": "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md"
               }
             }
           },
@@ -243,18 +243,21 @@
   },
   "active": "c5bb60ca56790ea3",
   "lastOpenFiles": [
+    "sophFall/CIS 5810/(Lecture 3) Convolution Review and Examples.md",
+    "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
+    "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
+    "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
+    "sophFall/STAT4300/(Lecture 6) Bayes Rule.md",
+    "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
     "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md",
     "sophFall/CIS 5810/(Lecture 8) Image Transform.md",
     "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md",
     "sophFall/CIS5190/Pasted image 20240925111204.png",
     "sophFall/CIS5190/Pasted image 20240925105147.png",
-    "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
-    "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
     "sophFall/CIS5190/(Lecture 7) Neural Network Tips & Tricks.md",
     "sophFall/CIS2400/(Lecture 8) CMOS & Gates.md",
     "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
     "(Lecture.md",
-    "sophFall/STAT4300/(Lecture 6) Bayes Rule.md",
     "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
     "sophFall/CIS5190/(Lecture 3) Linear Regression (Cont'd).md",
     "sophFall/CIS5190/(Lecture 5) Final Linear Regression and Logistic Regression.md",
@@ -265,12 +268,9 @@
     "sophFall/CIS2400/(Lecture 6) Building a C Program.md",
     "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
     "sophFall/CIS2400/(Lecture 4) C Memory Models.md",
-    "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
     "sophFall/CIS2400/(Lecture 1b) Basics of C Programming.md",
     "sophFall/CIS2400/(Lecture 1) Intro to C Cont'd.md",
     "sophFall/CIS2400/(Lecture 2) Bits & Bytes.md",
-    "sophFall/CIS2400/(Lecture 2b) Bits & Bytes in Code (C).md",
-    "sophFall/CIS2400/(Lecture 3) Binary Wrap Up & Basic C Memory Model.md",
     "sophFall",
     "freshSum",
     "freshSpring",

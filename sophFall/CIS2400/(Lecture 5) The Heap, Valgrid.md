@@ -74,7 +74,7 @@ void Queue_Add(Queue *q, int val) {
 	- `.c` files never contain prototype declarations for functions that are intended to be exported through the module interface
 		- Prototype declaration: `int calculateSum(int a, int b);`
 - Including:
-	- *NEVER* `#include` a .c file
+	- *<font color="#2DC26B">NEVER</font>* `#include` a .c file
 	- Only `#include` .h files
 	- `#include` all of headers you reference, even if another header (transitively) includes some of them
 
