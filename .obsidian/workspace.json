@@ -100,9 +100,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d7c8a44c99e3511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/CIS5190/(Lecture 8) kNN and Decision Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
+                "file": "sophFall/CIS5190/(Lecture 8) kNN and Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
+                "file": "sophFall/CIS5190/(Lecture 8) kNN and Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md"
+                "file": "sophFall/CIS5190/(Lecture 8) kNN and Decision Trees.md"
               }
             }
           },
@@ -241,8 +253,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c5bb60ca56790ea3",
+  "active": "3d7c8a44c99e3511",
   "lastOpenFiles": [
+    "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
+    "sophFall/CIS5190/(Lecture 8) kNN and Decision Trees.md",
     "sophFall/CIS 5810/(Lecture 3) Convolution Review and Examples.md",
     "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
     "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
@@ -266,11 +280,9 @@
     "sophFall/CIS5190/(Lecture 1b) Types of Learning Problems.md",
     "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
     "sophFall/CIS2400/(Lecture 6) Building a C Program.md",
-    "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
     "sophFall/CIS2400/(Lecture 4) C Memory Models.md",
     "sophFall/CIS2400/(Lecture 1b) Basics of C Programming.md",
     "sophFall/CIS2400/(Lecture 1) Intro to C Cont'd.md",
-    "sophFall/CIS2400/(Lecture 2) Bits & Bytes.md",
     "sophFall",
     "freshSum",
     "freshSpring",
