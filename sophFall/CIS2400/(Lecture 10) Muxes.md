@@ -7,4 +7,3 @@
 
 **Overflow for 2's Complements:**
 - Overflow for 2C isn't always "problematic", it doesn't always result in a value that is incorrect
-- 
