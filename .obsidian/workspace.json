@@ -124,9 +124,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63ef1434bb05846d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/CIS2400/(Lecture 10) Muxes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 9) Random Variables.md",
+                "file": "sophFall/CIS2400/(Lecture 10) Muxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 9) Random Variables.md",
+                "file": "sophFall/CIS2400/(Lecture 10) Muxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 9) Random Variables.md"
+                "file": "sophFall/CIS2400/(Lecture 10) Muxes.md"
               }
             }
           },
@@ -265,10 +277,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c4f95ea6d7df80cf",
+  "active": "63ef1434bb05846d",
   "lastOpenFiles": [
-    "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
     "sophFall/STAT4300/(Lecture 9) Random Variables.md",
+    "sophFall/CIS2400/(Lecture 10) Muxes.md",
+    "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
     "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
     "sophFall/CIS5190/(Lecture 8) kNN and Decision Trees.md",
     "Pasted image 20240930112624.png",
@@ -295,7 +308,6 @@
     "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
     "sophFall/CIS2400/(Lecture 6) Building a C Program.md",
     "sophFall/CIS2400/(Lecture 4) C Memory Models.md",
-    "sophFall/CIS2400/(Lecture 1b) Basics of C Programming.md",
     "sophFall",
     "freshSum",
     "freshSpring",
