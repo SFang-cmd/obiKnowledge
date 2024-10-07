@@ -148,9 +148,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b665396dc27d8d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/CIS5190/(Lecture 9) Unsupervised Learning - k-Means.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e411bfdfbf117a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/STAT4300/(Lecture 11) Expectation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -216,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS 5810/(Lecture 10) Feature Matching.md",
+                "file": "sophFall/STAT4300/(Lecture 11) Expectation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS 5810/(Lecture 10) Feature Matching.md",
+                "file": "sophFall/STAT4300/(Lecture 11) Expectation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS 5810/(Lecture 10) Feature Matching.md"
+                "file": "sophFall/STAT4300/(Lecture 11) Expectation.md"
               }
             }
           },
@@ -273,7 +297,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,10 +313,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bf2dc22976d04b64",
+  "active": "e411bfdfbf117a54",
   "lastOpenFiles": [
-    "sophFall/CIS2400/(Lecture 10) Muxes.md",
+    "sophFall/CIS5190/(Lecture 9) Unsupervised Learning - k-Means.md",
+    "sophFall/STAT4300/(Lecture 11) Expectation.md",
+    "Pasted image 20241007113058.png",
+    "Pasted image 20241007111030.png",
     "sophFall/CIS 5810/(Lecture 10) Feature Matching.md",
+    "sophFall/CIS2400/(Lecture 10) Muxes.md",
     "sophFall/STAT4300/(Lecture 9) Random Variables.md",
     "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
     "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
@@ -317,8 +346,6 @@
     "sophFall/CIS5190/(Lecture 6) Evaluating Classification Performance.md",
     "sophFall/CIS5190/CIS 5190 Intro - Applied Machine Learning.md",
     "sophFall/CIS5190/(Lecture 1b) Types of Learning Problems.md",
-    "sophFall/CIS2400/(Lecture 7) CMOS Transistor Circuits.md",
-    "sophFall/CIS2400/(Lecture 6) Building a C Program.md",
     "sophFall",
     "freshSum",
     "freshSpring",
@@ -333,8 +360,6 @@
     "freshFall/math1410/chapter4/Pasted image 20231126201941.png",
     "freshFall/math1410/chapter9",
     "freshFall/math1410/Pasted image 20231207233217.png",
-    "freshFall/math1410/chapter4",
-    "freshFall/math1410/Pasted image 20231207225719.png",
-    "freshFall/math1410/Pasted image 20231128170000.png"
+    "freshFall/math1410/chapter4"
   ]
 }
