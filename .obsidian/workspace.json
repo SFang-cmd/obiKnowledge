@@ -172,9 +172,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7162a49b0159fc7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 11) Expectation.md",
+                "file": "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 11) Expectation.md",
+                "file": "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 11) Expectation.md"
+                "file": "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md"
               }
             }
           },
@@ -313,10 +325,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e411bfdfbf117a54",
+  "active": "7162a49b0159fc7d",
   "lastOpenFiles": [
-    "sophFall/CIS5190/(Lecture 9) Unsupervised Learning - k-Means.md",
     "sophFall/STAT4300/(Lecture 11) Expectation.md",
+    "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md",
+    "sophFall/CIS5190/(Lecture 9) Unsupervised Learning - k-Means.md",
     "Pasted image 20241007113058.png",
     "Pasted image 20241007111030.png",
     "sophFall/CIS 5810/(Lecture 10) Feature Matching.md",
@@ -345,7 +358,6 @@
     "sophFall/CIS5190/(Lecture 5) Final Linear Regression and Logistic Regression.md",
     "sophFall/CIS5190/(Lecture 6) Evaluating Classification Performance.md",
     "sophFall/CIS5190/CIS 5190 Intro - Applied Machine Learning.md",
-    "sophFall/CIS5190/(Lecture 1b) Types of Learning Problems.md",
     "sophFall",
     "freshSum",
     "freshSpring",
