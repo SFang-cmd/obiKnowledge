@@ -184,9 +184,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8c1076e326fe4b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/STAT4300/(Lecture 13) Poisson Distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -252,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md",
+                "file": "sophFall/STAT4300/(Lecture 13) Poisson Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md",
+                "file": "sophFall/STAT4300/(Lecture 13) Poisson Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md"
+                "file": "sophFall/STAT4300/(Lecture 13) Poisson Distribution.md"
               }
             }
           },
@@ -325,10 +337,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7162a49b0159fc7d",
+  "active": "c8c1076e326fe4b0",
   "lastOpenFiles": [
-    "sophFall/STAT4300/(Lecture 11) Expectation.md",
     "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md",
+    "sophFall/STAT4300/(Lecture 13) Poisson Distribution.md",
+    "sophFall/STAT4300/(Lecture 11) Expectation.md",
     "sophFall/CIS5190/(Lecture 9) Unsupervised Learning - k-Means.md",
     "Pasted image 20241007113058.png",
     "Pasted image 20241007111030.png",
@@ -357,7 +370,6 @@
     "sophFall/CIS5190/(Lecture 3) Linear Regression (Cont'd).md",
     "sophFall/CIS5190/(Lecture 5) Final Linear Regression and Logistic Regression.md",
     "sophFall/CIS5190/(Lecture 6) Evaluating Classification Performance.md",
-    "sophFall/CIS5190/CIS 5190 Intro - Applied Machine Learning.md",
     "sophFall",
     "freshSum",
     "freshSpring",
