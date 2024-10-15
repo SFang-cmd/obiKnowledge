@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 3) Equally Likely Outcomes.md",
+                "file": "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
                 "mode": "source",
                 "source": false
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 3) Equally Likely Outcomes.md",
+                "file": "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 3) Equally Likely Outcomes.md",
+                "file": "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 3) Equally Likely Outcomes.md"
+                "file": "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md"
               }
             }
           },
@@ -339,6 +339,7 @@
   },
   "active": "c8c1076e326fe4b0",
   "lastOpenFiles": [
+    "sophFall/STAT4300/(Lecture 3) Equally Likely Outcomes.md",
     "sophFall/STAT4300/(Lecture 2) Definitions.md",
     "sophFall/STAT4300/(Lecture 1) Introduction to Probability.md",
     "sophFall/STAT4300/(Lecture 13) Poisson Distribution.md",
@@ -369,7 +370,6 @@
     "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
     "(Lecture.md",
     "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
-    "sophFall/CIS5190/(Lecture 3) Linear Regression (Cont'd).md",
     "sophFall",
     "freshSum",
     "freshSpring",
