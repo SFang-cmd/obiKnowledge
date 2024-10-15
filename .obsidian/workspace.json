@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 14) Exam Review.md",
+                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 14) Exam Review.md",
+                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 14) Exam Review.md",
+                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS2400/(Lecture 14) Exam Review.md"
+                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "893a772232540720",
   "lastOpenFiles": [
-    "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
+    "sophFall/CIS5190/(Lecture 1b) Types of Learning Problems.md",
     "sophFall/CIS2400/(Lecture 14) Exam Review.md",
+    "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
     "sophFall/STAT4300/(Lecture 3) Equally Likely Outcomes.md",
     "sophFall/STAT4300/(Lecture 2) Definitions.md",
     "sophFall/STAT4300/(Lecture 1) Introduction to Probability.md",
@@ -190,7 +191,6 @@
     "sophFall/CIS5190/(Lecture 7) Neural Network Tips & Tricks.md",
     "sophFall/CIS2400/(Lecture 8) CMOS & Gates.md",
     "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
-    "(Lecture.md",
     "sophFall",
     "freshSum",
     "freshSpring",
