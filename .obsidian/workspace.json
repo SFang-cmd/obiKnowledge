@@ -196,9 +196,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "893a772232540720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/CIS2400/(Lecture 14) Exam Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -264,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
+                "file": "sophFall/CIS2400/(Lecture 14) Exam Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
+                "file": "sophFall/CIS2400/(Lecture 14) Exam Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md"
+                "file": "sophFall/CIS2400/(Lecture 14) Exam Review.md"
               }
             }
           },
@@ -337,8 +349,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c8c1076e326fe4b0",
+  "active": "893a772232540720",
   "lastOpenFiles": [
+    "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
+    "sophFall/CIS2400/(Lecture 14) Exam Review.md",
     "sophFall/STAT4300/(Lecture 3) Equally Likely Outcomes.md",
     "sophFall/STAT4300/(Lecture 2) Definitions.md",
     "sophFall/STAT4300/(Lecture 1) Introduction to Probability.md",
@@ -359,7 +373,6 @@
     "sophFall/CIS 5810/(Lecture 3) Convolution Review and Examples.md",
     "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
     "sophFall/STAT4300/(Lecture 6) Bayes Rule.md",
-    "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
     "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md",
     "sophFall/CIS 5810/(Lecture 8) Image Transform.md",
     "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md",
@@ -369,7 +382,6 @@
     "sophFall/CIS2400/(Lecture 8) CMOS & Gates.md",
     "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
     "(Lecture.md",
-    "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
     "sophFall",
     "freshSum",
     "freshSpring",
