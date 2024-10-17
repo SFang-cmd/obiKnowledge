@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophFall/CIS2400/Review.md",
-                "mode": "preview",
+                "file": "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS2400/Review.md",
+                "file": "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS2400/Review.md",
+                "file": "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS2400/Review.md"
+                "file": "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md"
               }
             }
           },
@@ -173,23 +173,24 @@
   },
   "active": "b551e30b6220003e",
   "lastOpenFiles": [
-    "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
+    "sophFall/STAT4300/(Lecture 6) Bayes Rule.md",
+    "sophFall/STAT4300/(Lecture 9) Random Variables.md",
+    "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md",
+    "sophFall/STAT4300/(Lecture 13) Poisson Distribution.md",
     "sophFall/CIS2400/Review.md",
+    "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
     "sophFall/CIS5190/(Lecture 1b) Types of Learning Problems.md",
     "sophFall/CIS2400/(Lecture 14) Exam Review.md",
     "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
     "sophFall/STAT4300/(Lecture 3) Equally Likely Outcomes.md",
     "sophFall/STAT4300/(Lecture 2) Definitions.md",
     "sophFall/STAT4300/(Lecture 1) Introduction to Probability.md",
-    "sophFall/STAT4300/(Lecture 13) Poisson Distribution.md",
-    "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md",
     "sophFall/STAT4300/(Lecture 11) Expectation.md",
     "sophFall/CIS5190/(Lecture 9) Unsupervised Learning - k-Means.md",
     "Pasted image 20241007113058.png",
     "Pasted image 20241007111030.png",
     "sophFall/CIS 5810/(Lecture 10) Feature Matching.md",
     "sophFall/CIS2400/(Lecture 10) Muxes.md",
-    "sophFall/STAT4300/(Lecture 9) Random Variables.md",
     "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
     "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
     "sophFall/CIS5190/(Lecture 8) kNN and Decision Trees.md",
@@ -197,7 +198,6 @@
     "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
     "sophFall/CIS 5810/(Lecture 3) Convolution Review and Examples.md",
     "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
-    "sophFall/STAT4300/(Lecture 6) Bayes Rule.md",
     "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md",
     "sophFall/CIS 5810/(Lecture 8) Image Transform.md",
     "sophFall/CIS2400/(Lecture 9) Simplification & Combinatorial Logic.md",
