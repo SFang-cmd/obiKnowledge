@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b551e30b6220003e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sophFall/CIS2400/Review.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
+                "file": "sophFall/CIS2400/Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
+                "file": "sophFall/CIS2400/Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sophFall/CIS5190/(Lecture 2) Supervised Learning.md"
+                "file": "sophFall/CIS2400/Review.md"
               }
             }
           },
@@ -158,8 +171,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "893a772232540720",
+  "active": "b551e30b6220003e",
   "lastOpenFiles": [
+    "sophFall/CIS5190/(Lecture 2) Supervised Learning.md",
+    "sophFall/CIS2400/Review.md",
     "sophFall/CIS5190/(Lecture 1b) Types of Learning Problems.md",
     "sophFall/CIS2400/(Lecture 14) Exam Review.md",
     "sophFall/STAT4300/(Lecture 4) More Counting Strategies.md",
@@ -189,8 +204,6 @@
     "sophFall/CIS5190/Pasted image 20240925111204.png",
     "sophFall/CIS5190/Pasted image 20240925105147.png",
     "sophFall/CIS5190/(Lecture 7) Neural Network Tips & Tricks.md",
-    "sophFall/CIS2400/(Lecture 8) CMOS & Gates.md",
-    "sophFall/CIS2400/(Lecture 7b) Boolean and Transistors.md",
     "sophFall",
     "freshSum",
     "freshSpring",
