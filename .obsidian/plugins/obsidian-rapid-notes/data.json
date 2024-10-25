@@ -1,6 +1,12 @@
 {
   "prefixedFolders": [
     {
+      "folder": "sophFall/OIDD3140",
+      "prefix": "oidd",
+      "filenamePrefix": "",
+      "addCommand": false
+    },
+    {
       "folder": "sophFall/CIS2400",
       "prefix": "systems",
       "filenamePrefix": "",
