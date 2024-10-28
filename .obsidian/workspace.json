@@ -245,8 +245,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4fa74c3ac89fe7b0",
+  "active": "6ac84b161aa31f34",
   "lastOpenFiles": [
+    "forFun",
+    "forFun/comedy",
     "sophFall/CIS2400/(Lecture 15) RISC-V Instruction Overview.md",
     "sophFall/OIDD3140/(Lecture 1) Internet Policy and Ethics.md",
     "sophFall/OIDD3140",
@@ -276,7 +278,6 @@
     "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
     "sophFall/CIS 5810/(Lecture 3) Convolution Review and Examples.md",
     "sophFall/CIS 5810/(Lecture 7) Project 2 Recitation, Canny Edge Detection.md",
-    "sophFall/CIS 5810/(Lecture 9) How to OpenCV.md",
     "sophFall/CIS5190/Pasted image 20240925111204.png",
     "sophFall/CIS5190/Pasted image 20240925105147.png",
     "sophFall",
@@ -291,7 +292,6 @@
     "sophFall/MGMT2670",
     "freshFall/math1410/chapter4/Pasted image 20231126205458.png",
     "freshFall/math1410/chapter4/Pasted image 20231126201941.png",
-    "freshFall/math1410/chapter9",
     "freshFall/math1410/Pasted image 20231207233217.png"
   ]
 }
