@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophSpring/MGMT 2640/Intro.md",
+                "file": "sophSpring/CIS 3200/(Lecture 1) 1210 Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "(Lecture 1) 1210 Review"
             }
           }
         ],
@@ -301,11 +301,13 @@
   },
   "active": "eb3430eef0121e4c",
   "lastOpenFiles": [
+    "sophFall/STAT4300/(Lecture 16) Joint Distributions.md",
+    "sophFall/CIS 5810/(Lecture...) Regression.md",
+    "sophSpring/CIS 3200/(Lecture 1) 1210 Review.md",
     "sophSpring/MGMT 2640/Intro.md",
+    "sophSpring/CIS 3200",
     "sophSpring/MGMT 2640",
     "sophSpring",
-    "sophFall/CIS 5810/(Lecture...) Regression.md",
-    "sophFall/STAT4300/(Lecture 16) Joint Distributions.md",
     "sophFall/OIDD3140/(Lecture 1) Internet Policy and Ethics.md",
     "forFun",
     "forFun/comedy",
@@ -334,7 +336,6 @@
     "sophFall/STAT4300/(Lecture 7) Bayes Rule Cont'd.md",
     "sophFall/CIS5190/(Lecture 8) kNN and Decision Trees.md",
     "Pasted image 20240930112624.png",
-    "sophFall/CIS2400/(Lecture 5) The Heap, Valgrid.md",
     "sophFall/CIS5190/Pasted image 20240925111204.png",
     "sophFall/CIS5190/Pasted image 20240925105147.png",
     "sophFall",
@@ -343,7 +344,6 @@
     "freshFall",
     "sophFall/STAT4300/Pasted image 20240918123009.png",
     "sophFall/STAT4300/Pasted image 20240916125254.png",
-    "sophFall/STAT4300",
     "freshFall/math1410/chapter4/Pasted image 20231126205458.png",
     "freshFall/math1410/chapter4/Pasted image 20231126201941.png",
     "freshFall/math1410/Pasted image 20231207233217.png"
