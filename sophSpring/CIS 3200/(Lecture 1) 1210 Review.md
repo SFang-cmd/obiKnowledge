@@ -30,8 +30,7 @@ Lecture 1 warm-up problem: **The Chip Testing Problem**
 - *Goal:* Identify all bad chips, by performing the smallest \# of pairwise tests
 - Obs 1: To solve this problem, it suffices to *identify one good chip*
 - Obs 2: For this problem to be solvable, it must be that good chips *are in strict majority*
-- Obs 3: Any algorithm for this problem requires \____ tests
-- 
+- Obs 3: Any algorithm for this problem requires \__$\Omega(n)$\__ tests
 
 Suppose n is even, then we can't use $\frac{n}{2}$ dividing into two groups because there is one case where:
 - When two chips test each other and both are good, they'll output "good, good"
@@ -41,3 +40,18 @@ Suppose n is even, then we can't use $\frac{n}{2}$ dividing into two groups beca
 **Algorithm 1:**
 - Pick a chip, and let all others $(n-1)$ chips test it
 - Take the majority outcome and declare it to be the status of this chip
+
+**Algorithm 2:**
+- If $n=1$ or $2$, then return **any chip as good**
+- If $n$ is odd then let $(n-1)$ chips test one of them. If majority decision is good then we are done. Otherwise discard the tested chip
+- Pair up the chips into $\left\lfloor  \frac{n}{2}  \right\rfloor$ pairs in an arbitrary manner
+	- (a) If a pair is B-B or B-G then discard both chips
+	- (b) If a pair is G-G, throw away one chip in each such pair
+- Recursively find a good chip among the remaining chips
+
+**Analysis:**
+- $T(n) \leq (n-1) + \left( \frac{n}{2} \right) + T\left( \frac{n}{2} \right)$
+- $\leq \frac{3n}{2} + T\left( \frac{n}{2} \right)$
+- $\leq \frac{3n}{2}+\frac{3n}{4}+T\left( \frac{n}{4} \right)$
+- $\leq 3n$
+
