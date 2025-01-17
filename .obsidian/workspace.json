@@ -149,12 +149,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophSpring/CIS 3500/Intro.md",
+                "file": "sophSpring/CIS 1921/Solving Hard Problems Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Solving Hard Problems Intro"
             }
           }
         ],
@@ -315,8 +315,11 @@
   },
   "active": "f35833b1cd3d5023",
   "lastOpenFiles": [
-    "sophSpring/MATH 3410/Intro to Cryptography.md",
     "sophSpring/CIS 3500/Intro.md",
+    "sophSpring/CIS 1921/Solving Hard Problems Intro.md",
+    "sophSpring/CIS 1921",
+    "sophSpring/EAS 2420",
+    "sophSpring/MATH 3410/Intro to Cryptography.md",
     "sophSpring/CIS 3500",
     "sophSpring/MATH 3410",
     "sophFall/STAT4300/(Lecture 16) Joint Distributions.md",
@@ -350,12 +353,9 @@
     "Pasted image 20241007111030.png",
     "sophFall/CIS 5810/(Lecture 10) Feature Matching.md",
     "sophFall/CIS2400/(Lecture 10) Muxes.md",
-    "sophFall/STAT4300/(Lecture 8) Conditional Probability Cont'd.md",
     "Pasted image 20240930112624.png",
     "sophFall/CIS5190/Pasted image 20240925111204.png",
     "sophFall/CIS5190/Pasted image 20240925105147.png",
-    "sophFall",
-    "freshSum",
     "sophFall/STAT4300/Pasted image 20240918123009.png",
     "sophFall/STAT4300/Pasted image 20240916125254.png",
     "freshFall/math1410/chapter4/Pasted image 20231126205458.png",
