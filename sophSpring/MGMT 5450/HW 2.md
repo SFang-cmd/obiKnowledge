@@ -135,8 +135,9 @@
 		- "What's different than you expected?"
 	- "I take pictures of really bad innovations" - Jeff Bezos
 	- Hypothesis-test experimentation techniques
-	- Attend seminars on topics outside your area of expertise
-	- 
+		- Attend seminars on topics outside your area of expertise
+		- Take apart a product that interests you
+		- Learn about different lifestyles
 - **The Five Discovery Skills**
 	- Doing:
 		1. Questioning - Break out of the status quo and consider new possibilities
@@ -208,6 +209,60 @@
 	- Rehearse over and over the behaviors described above, until they become automatic
 	- **Put time aside to actively cultivate more creative ideas**
 	- Questioning is the most important: Ask "Why" and "Why not" to **turbocharge the other discovery skills**
-- 
 - Study the five “discovery skills” that distinguish visionary entrepreneurs. Think carefully about the relevance of the above Agassiz article to the findings of this article. What discipline and skills are common to both? Relate these skills to yourself. Following advice from this article, what can you do to sharpen your personal innovation skills? Be prepared to discuss this article in class.
+	- Observing, Associating, Questioning, and to some extent Experimenting
+	- Observing, is the most obvious one, since they both require repeated looking at the engines that power industry, and thinking about how different industries have similarities, just like how different fish have similarities and differences
+	- Associating as well, since entrepreneurship requires that you can connect seemingly unrelated topics together. In the Agassiz example, the association comes in different principles of zoology, where different animals have similar zoological observational skills
+	- Questioning and experimenting in looking at the fish and testing different hypothesis of what the fish looks and acts like. Asking questions about how the fish lived and what different body parts may have had a purpose for
 
+
+
+**The New Venture Notes**
+- **New Ventures do not have a "business"**
+	- May have sales, revenues, profits, etc
+	- However, does not have a viable, operating, organized "present"
+	- No management - Don't know what they are doing, where they are going, what results are/should be
+	- Ex. Thomas Edison - Was able to be an entrepreneur, but refused to build a management team, so failed when companies got to middle size
+- **The 4 requirements of Entrepreneurial Management**
+	1. **Focus on the market**
+	2. Financial foresight and planning for **cash flow** and capital needs ahead
+	3. Building a **top management team** long before the new venture actually needs one and long before it can actually afford one
+	4. Requires the founding entrepreneur **a decision in respect to his or her own role, area of work, and relationships**
+- **Focus on the Market - The product or service is defined by the customer, not by the producer**
+	- A venture usually succeeds in a market that it was not originally intended to serve
+	- If a venture is not market-driven and totally market-focused to **provide customers with what they want,** then it will succeed only in creating and opportunity for a competitor
+	- Only exception is if the product is specifically designed for one specific use (scientific or technical)
+	- **New things create markets that nobody before even imagined**
+	- The new venture therefore needs to start out with the assumption that its product or service may find customers in markets no one thought of, for uses no one envisaged, and that it will be bought by customers outside its field of vision and even unknown to the new venture.
+	- If the new venture does not have such a market focus from the very beginning, all it is likely to create is the market for a competitor
+	- **Observe any unexpected successes or unexpected failures as distinct opportunities, experiment with these new markets**
+	- **Let new markets test the products with "free samples" to see what they can do with it**
+	- Biggest threat in "neo-natal"/early stage ventures
+- **Financial Foresight**
+	- Biggest threat in rapidly growing new ventures
+	- Big culprits
+		- Lack of cash
+		- Inability to raise the capital needed for expansion
+		- Loss of control
+	- Cash flow, capital, and controls come much earlier than profit
+	- Cash flow analysis, cash flow forecasts, and cash management are needed
+	- **Financial management is key for growth**
+	- Profit is generally a fake thing in the long run, because that means that the company is not investing in itself
+	- Growing ventures should know how much cash it will need 12 months ahead of time
+	- **New ventures are under the most cash pressure when the opportunities are greatest**
+	- Capital can also be raised through step-by-step continuing to change your capital structure.
+		- Each unit breaks even fairly soon (2-3 years)
+		- When the operation can be made routine, so limited managerial competence can do a decent job
+		- When the individual unit itself reaches fairly swiftly the optimum size beyond which it does not require further capital, but produces cash surplus to help finance the startup of additional units
+		- Don't wait until you outgrow your capital structure to finance more, plan at least a year ahead
+	- Control of quality, service, inventory, manufacturing costs, is also necessary - make sure to plan **3 years in advance**
+- **Building a Top Management Team**
+	- A business reaching maturity requires a management team to grow further, otherwise everything else means nothing
+	- Make a list of **the specific areas upon which the survival and success of the business depend**
+	- Delegate the activities that each one is doing well to those people
+	- **CEO's work depends on what the enterprise requires and who the individual is**
+	- 
+- Who is Peter Drucker? Do a quick online search and familiarize yourself with “the world’s greatest management thinker” and “the father of modern management.”
+- For the high-tech startup, what is the importance of Professor Drucker’s analysis of the phrase “entrepreneurial management”?
+- Professor Drucker underscores four key requirements for entrepreneurial management. What are they and why are they important?
+- Do you see any relationship with any of these four requirements and Louis Agassiz’s teaching methods?
