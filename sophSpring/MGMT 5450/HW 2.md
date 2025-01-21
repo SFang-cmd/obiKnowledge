@@ -261,8 +261,97 @@
 	- Make a list of **the specific areas upon which the survival and success of the business depend**
 	- Delegate the activities that each one is doing well to those people
 	- **CEO's work depends on what the enterprise requires and who the individual is**
-	- 
+	- **The founder has to learn to become the leader of a team rather than a "star" with "helpers"**
+- **Where can I contribute?**
+	- Now that the company is taking off, founders need to figure out how they change to accommodate the new company
+		- Do not ask "What do I like to do?" or "Where do I fit in?"
+		- Instead, as "What will the venture need *objectively* by way of management from here on out?"
+	- Then, the founder must ask "What am I good at?"
+	- Finally, the founder can ask "What do I really want to do, and believe in doing? What am I willing to spend years on, if not the rest of my life?"
+	- "It was not what I really wanted to do, but it was where I could make the greatest contribution"
+	- **Sometimes it is productive to ask "Where do I belong even before starting a new venture**
+- **The Need for Outside Advice**
+	- Someone not in the industry needs to challenge the founder's decisions and ideas to make sure that they are the smartest decision to be made
+	- "Someone who is not a part of the problem has to ask questions"
 - Who is Peter Drucker? Do a quick online search and familiarize yourself with “the world’s greatest management thinker” and “the father of modern management.”
+	- Management Consultant, educator, and author
+	- Contributed to modern management theory through philosophy and technical foundations
+	- Widely known management theorist
 - For the high-tech startup, what is the importance of Professor Drucker’s analysis of the phrase “entrepreneurial management”?
+	- Drucker is basically saying that new ventures have a surplus of entrepreneurial expertise, but not enough management knowledge
+	- He states that the main obstacle to entrepreneurship is the absence of management in founding ventures
 - Professor Drucker underscores four key requirements for entrepreneurial management. What are they and why are they important?
+	1. **Focus on the market** - Entrepreneurs should create products for the consumer, not the other way around. Thus, if a product isn't performing well, it may have other more useful applications that are worth experimenting with, especially in the early-stages of a company
+	2. **Financial Foresight** - New ventures often struggle because of lack of capital/bad capital structure. To guarantee that the company is able to grow at the best rate possible, ventures should be able to plan 1-2 years ahead in terms of financial need. This is important because often when a venture takes off, the founders struggle to get money to continue expanding at the rate they would like, which causes lots of sacrifices and can stunt a company
+	3. **Building a Top Managerial Team** - Once a venture starts to grow, founders should consider establishing a strong managerial team for when the company reaches maturity. If they don't ventures will often struggle to continue growing as they just don't have enough manpower to grow beyond their current scale
+	4. **Where the founder can contribute** - Once the venture is well-established, it now becomes the role of the founder to figure out where he is needed. Otherwise, the founder may just have bad results from the company, or they may just struggle to stay in the growth of the new venture
 - Do you see any relationship with any of these four requirements and Louis Agassiz’s teaching methods?
+	- Find where the founder can, since Louis Agassiz was able to help out his students, which in turn caused them to develop into independent researchers who were able to conduct their own research. While the first Professor stated that he was surprised that Agassiz's classification was mistaken, maybe Agassiz's true strength was in his ability to teach and pique interest in others
+
+
+**Hewlett Packard: Creating, Running, and Growing an Enduring Company**
+- In our reading by Peter Drucker, we studied certain requirements for entrepreneurial management. Can the ultimate success of HP be attributed, in whole or in part, to Bill Hewlett’s and Dave Packard’s adherence to Professor Drucker’s requirements? Explain.
+- What other factors had a significant effect on the ultimate success of HP?
+- What organizational structure and business processes did Bill Hewlett and Dave Packard create in their small company that allowed HP to evolve and grow?
+- How did they run and grow the business? Were they simply “lucky” in creating a highly successful company?
+- What did Dave Packard learn from his corporate job experiences prior to creating HP that where beneficial to HP’s success?
+
+**HP Case Study Notes**
+- Ran the company with the "HP Way"
+- Packard did not like how his current employer General Electric (GE) was a control-oriented company
+	- Expected employees to carry out jobs
+	- Did not know how their job helped corporate objectives
+	- High degree of mistrust and poor communication - guarded tool bins
+	- **Sounds like lack of innovative entrepreneurs with innovator's DNA**
+- From GE, Packard developed the "HP Way":
+	- Trust in people
+	- Individual responsibility
+	- Decentralization
+	- Open Communication
+	- Continual employee development and education
+	- Joint Problem Solving
+- Packard at HP:
+	- Open parts bin policy
+	- Open door policy, for communication
+	- Personal Development
+	- Individual responsibility/initiative
+	- Teamwork
+	- Participatory Decision Making
+	- **Management by objective**
+- **Management by walking around**: Execs would walk around and keep in direct touch with the activities of the company
+	- "Quality requires minute attention to every detail, that everyone in an organization wants to do a good job"
+- **Company founding**
+	- Did not have an idea of what they wanted to do, just wanted to make "important technical contributions to the advancement of science, industry, and human welfare"
+	- Did odd jobs: Foul-line indicator, automatic urinal flusher, musical tuner device, etc.
+	- \$500 for the foreign patent rights and assistance in obtaining the US patent for Hewlett's oscillator
+	- First product they priced at \$54.40 because of the 1844 presidential campaign slogan 54"40' or fight!
+- Learned to be versatile - Job titles meant little, but getting the required tasks done ensured the company's survival
+- HP thought differently from other companies of the time
+	- No hire and fire policy, maintained dedicated workforce
+	- Found employees that wanted to make a profit and contribute to technology
+- **Financial Foresight**
+	- **HP lacked financial foresight, almost went bankrupt after not being able to pay their employees**
+	- Cash-flow problems (received a \$500 loan to help pay employees)
+- **Focus on market**
+	- HP would not compete directly against large, established competitors
+	- "Don't try to take a fortified hill, especially if the army on top is bigger than your own"
+	- Expanded into markets where HP would make a distinct "contribution"
+	- Wanted to concentrate on "building a group of complementary products" than get a lot of unrelated things
+	- Next-Bench Syndrome: **HP was a company of engineers who were making products for engineers. Their focus on market was done by asking fellow engineers what they needed**
+		- Not as effective for the mass market, as engineer needs do not fit the everyday person
+- **Top Managerial Team**
+	- Unorthodox management style; ran everything by themselves for a long time
+	- Believed they had a managerial responsibility to employees, customers, and community; traditional logic is responsibility to shareholders
+	- Knew to maintain a level that could be sustained after the war; did not want mass layoffs for corporate culture
+	- "The HP Way"
+		- After they started thinking about leadership succession in 1-2 decades of working, they encouraged **"replication of the founder's managerial DNA"**
+		- Wanted "promotion from within"
+		- 
+- **Seems like this company is one of those rare cases in Peter Drucker's requirements, where Focus on the market's exception is when the company is designing/contracting a specific product to be built**
+	- Market is the companies or organizations that need a specific high-tech equipment made
+- **Where the Founders can contribute**
+	- Just kept running their business as they were
+
+
+
+**What are Peter Drucker’s four (4) requirements for entrepreneurial management? Discuss how or whether each of these pertain to the early success of Hewlett Packard? Explain using specific examples from the HP case.**
