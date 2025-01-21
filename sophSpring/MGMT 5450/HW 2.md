@@ -346,7 +346,6 @@
 	- "The HP Way"
 		- After they started thinking about leadership succession in 1-2 decades of working, they encouraged **"replication of the founder's managerial DNA"**
 		- Wanted "promotion from within"
-		- 
 - **Seems like this company is one of those rare cases in Peter Drucker's requirements, where Focus on the market's exception is when the company is designing/contracting a specific product to be built**
 	- Market is the companies or organizations that need a specific high-tech equipment made
 - **Where the Founders can contribute**

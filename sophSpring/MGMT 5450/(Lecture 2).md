@@ -58,4 +58,10 @@
 	- The role of the founder will change over the different stages of the company's growth
 	- Role of the founder changes
 	- **Important for mentors and advisors to exist**
+- Hewlett Packard Today:
+	- HP Inc. - Laptops and Printers
+	- Hewlett Packard Enterprises - Enterprise Software
+	- Agilent Tech - Chemical Analysis
+	- Keysight Technologies - Electronic Signals (Most close to original HP)
+	- **Only Keysight is outperforming the index**
 - 
