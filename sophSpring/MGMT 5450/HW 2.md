@@ -231,7 +231,7 @@
 - **Focus on the Market - The product or service is defined by the customer, not by the producer**
 	- A venture usually succeeds in a market that it was not originally intended to serve
 	- If a venture is not market-driven and totally market-focused to **provide customers with what they want,** then it will succeed only in creating and opportunity for a competitor
-	- Only exception is if the product is specifically designed for one specific use (scientific or technical)
+	- **Only exception is if the product is specifically designed for one specific use (scientific or technical)**
 	- **New things create markets that nobody before even imagined**
 	- The new venture therefore needs to start out with the assumption that its product or service may find customers in markets no one thought of, for uses no one envisaged, and that it will be bought by customers outside its field of vision and even unknown to the new venture.
 	- If the new venture does not have such a market focus from the very beginning, all it is likely to create is the market for a competitor
@@ -337,7 +337,7 @@
 	- "Don't try to take a fortified hill, especially if the army on top is bigger than your own"
 	- Expanded into markets where HP would make a distinct "contribution"
 	- Wanted to concentrate on "building a group of complementary products" than get a lot of unrelated things
-	- Next-Bench Syndrome: **HP was a company of engineers who were making products for engineers. Their focus on market was done by asking fellow engineers what they needed**
+	- Next-Bench: **HP was a company of engineers who were making products for engineers. Their focus on market was done by asking fellow engineers what they needed**
 		- Not as effective for the mass market, as engineer needs do not fit the everyday person
 - **Top Managerial Team**
 	- Unorthodox management style; ran everything by themselves for a long time
