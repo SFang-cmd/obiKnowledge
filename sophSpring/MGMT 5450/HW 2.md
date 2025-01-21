@@ -128,6 +128,15 @@
 	- For high-tech entrepreneurs, the more time you take to look at specific cases and your whole situation from different perspectives, the more likely you will be of making the most optimal decision for any situation
 
 **The Innovator's DNA Notes:**
+- **Top implementables:**
+	- Spend 15-30 minutes each day writing down 10 new questions that challenge the status quo in your company or industry
+	- Spend an entire day observing what customers are trying to get done (observe neutrally)
+		- To sharpen your own observational skills, watch how certain customers experience a product or service in their natural environment
+		- "What's different than you expected?"
+	- "I take pictures of really bad innovations" - Jeff Bezos
+	- Hypothesis-test experimentation techniques
+	- Attend seminars on topics outside your area of expertise
+	- 
 - **The Five Discovery Skills**
 	- Doing:
 		1. Questioning - Break out of the status quo and consider new possibilities
@@ -135,8 +144,70 @@
 		3. Experimenting - Try new experiences and explore the world
 		4. Networking - Talking to individuals from diverse backgrounds, they gain widely different perspectives
 	- Thinking
-		5. Associate - Cultivate new insights using the "doing" patterns
+		5. Associating - Cultivate new insights using the "doing" patterns
 - The ability to innovate (creativity) is the "secret sauce" of business success
+	- Senior executives in the most innovative companies (15%) **don't delegate creative work**
+	- Innovative entrepreneurs spend 50% more time on these discover activities
+	- **"The Innovator's DNA"**
+- **Innovative Entrepreneurs have "Creative Intelligence"**
+- One third of creativity comes from genetics, the other two thirds come from learning
+	- Understanding a given skill
+	- Practicing the skill
+	- Experimenting
+	- Gaining confidence in one's capacity to create
+- **Discover Skill 1: Associating**
+	- The ability to successfully connect seemingly unrelated questions, problems, or ideas from different fields
+	- The "Medici Effect"
+		- Creative explosion due to Medici family bringing together people from a wide range of disciplines
+		- (Sculptors, scientists, poets, philosophers, etc.)
+		- New ideas blossomed
+	- "Creativity is connecting things" - **Steve Jobs**
+		- Studied Calligraphy, Meditation practices, and Mercedes-Benz details
+	- The more frequently people try to understand new knowledge, the more easily the brain can recombine associations and create connections between previous things
+- **Discovery Skill 2: Questioning**
+	- "The important and difficult job is never to find the right answers, it is to find the right questions" - **Peter Drucker**
+	- Innovators constantly ask questions that challenge common wisdom
+	- "they like to ask: 'if we did this, what would happen?'" - CEO of eBay talking about founders of eBay, PayPal, Skype, etc.
+	- Michael Dell asked himself **why computers cost 5 times more than the sum of their parts**, which led to the creation of Dell Computers
+	- Innovative Entrepreneurs will ask **Why?** and **Why not?** and **What if?**
+		- Compared to most managers, who focus on how to make the "status quo" work a little better
+		- "How can we improve widget sales in Taiwan?"
+		- vs. Innovative entrepreneurs ("If we cut the size or weight of the widget in half, how would that change the value proposition it offers?")
+	- **Imagine Opposites**
+		- Innovative thinkers have the "capacity to hold two diametrically opposing ideas in their heads"
+		- "They are able to produce a synthesis that is superior to either opposing idea"
+		- Innovators often play Devil's Advocate
+	- **Embrace Constraints**
+		- "What if we were legally prohibited from selling to our current customers? How would we make money next year?"
+		- **Great questions actively impose constraints on our thinking to serve for more robust solutions**
+		- "Would you do the same thing you are doing today, if you haven't already sunk all this cost in?"
+- **Discovery Skill 3: Observing**
+	- Discovery-driven executives produce uncommon business ideas by scrutinizing common phenomena
+	- Serve as anthropologists and social scientists to explore "why someone does something"
+	- Quicken financial software founder observed his wife's struggle with finances, and after seeing Apple Lisa GUI, designed a software that made it easy for people to use
+	- *Genchi Genbutsu* - "going to the spot and seeing for yourself"
+- **Discovery Skill 4: Experimenting**
+	- Real world-experimenting to see what insights emerge
+	- Almost treating behavior as a "black box" that we can only know what the inputs are and the outcomes, so trying a variety of different scenarios allows innovators to test unknowns
+	- Companies like Amazon allow its employees to experiment: "If we can get processes decentralized so that we can do a lot of experiments without it being very costly, we'll get a lot more innovation" - Scott Cook
+	- **Living and working overseas** contributes to a roughly 7% higher market performance on average of CEOs
+	- More cultural experiences
+- **Discovery Skill 5: Networking**
+	- Innovative entrepreneurs network **to meet people with different kinds of ideas and perspectives to extend their own knowledge domains**
+	- Entrepreneurs make a conscious effort to visit other countries and meet people from other walks of life
+	- They also attend idea conferences such as 
+		- Technology, Entertainment, and Design (TED)
+		- Davos
+		- Aspen Ideas Festival
+	- Networking at conferences is very important
+	- "The insights required to solve many of our most challenging problems come from outside our industry and scientific field"
+	- Adjacent fields will prove to be very useful
+- **Practice, Practice, Practice**
+	- Best way to get better at being an innovative entrepreneur is to practice and practice until these inclinations of creativity become second-nature
+	- Want your whole mentality to be creativity and synthesis into better future products
+	- Rehearse over and over the behaviors described above, until they become automatic
+	- **Put time aside to actively cultivate more creative ideas**
+	- Questioning is the most important: Ask "Why" and "Why not" to **turbocharge the other discovery skills**
 - 
 - Study the five “discovery skills” that distinguish visionary entrepreneurs. Think carefully about the relevance of the above Agassiz article to the findings of this article. What discipline and skills are common to both? Relate these skills to yourself. Following advice from this article, what can you do to sharpen your personal innovation skills? Be prepared to discuss this article in class.
 
