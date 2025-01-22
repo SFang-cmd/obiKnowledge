@@ -1,0 +1,5 @@
+- Gatekeepers help divert new ventures to the VCs
+- Gatekeepers:
+	- If you like a VC's story, send it to us, and we'll conduct an in-depth review
+	- All you have to pay is a percentage of the deal
+- 
