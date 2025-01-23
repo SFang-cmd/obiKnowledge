@@ -91,7 +91,35 @@ E. Reposition as customer base evolves
 ## Discuss how Vermeer **adapted and planned**
 
 ### Team and Culture
-- Charles Ferguson
+- Charles Ferguson - VISION
 	- Marketing
-	- Customer Engagement
-	- Consul
+	- Customer Engagement Consultant
+	- Connections/Network
+		- Consultants
+		- Custoemrs/Prospects
+		- Technical
+		- VCs
+- Randy Forgaard - EXECUTION, SW ARCHITECT
+	- Technical
+	- Startup
+	- Lead SWE
+- "Engineers"
+	- Develop
+	- Entrepreneurial spirit/mindset
+	- Work long hours
+	- Do what it takes
+	- Mission-driven (bought into the vision)
+	- Worked for no pay(actually equity)
+	- Make it happen
+- Frank Germano - Operations
+	- Harsh, critical
+	- High expectations
+	- Deadlines --> at the expense of features
+	- Speed to market was critical
+
+### Cash and Capital
+- Charles Ferguson --> \$
+- \$4mm from VC
+	- 51% goes to the VC
+	- 2 of 4 people on Board of Directors (BoD)
+	- Hire CEO
