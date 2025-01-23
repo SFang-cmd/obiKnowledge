@@ -122,5 +122,34 @@ def SelectionSort(A, 1, n):
 Use a decision tree, where each node compares two elements in an $A[1\dots n]$ array
 ```mermaid
 graph TD
-A["A(1) <= A(9)"] --> B["A(3) <= A(5)"]
+A["A(1) <= A(9)?"] --> B["A(3) <= A(5)?"]
+A["A(1) <= A(9)?"] --> C["A(1) <= A(9)?"]
+B --> D[ ]
+B --> E[ ]
+C --> F[ ]
+C --> G[ ]
 ```
+- In order for the decision tree to be definitive, we need there to be $n!$ **total leaves** (the final array ordering that we reach i.e. (A(3), A(1), A(2), A(0), ...)) **in the bottom row**
+- The worst-case runtime is $h$, the height of the decision tree
+- A binary tree of height $h$ has $\leq 2^h$ leaves
+- **Final Observation:** $2^{h} \geq n!$
+	- $h \geq \log(n!) = \Omega (n\log n)$
+	- Because $n! \geq \left( \frac{n}{2} \right)^{\frac{n}{2}}$
+
+## Count Sort
+- **Input:** An array $A[1\dots n]$ such that all elements in $A$ are in the range $[1\dots k]$
+- **Goal:** Sort $A$ in $O(n + k)$ time
+- **Algorithm:**
+```Python
+def CountSort(1...k):
+	# Initialize an array C[1...k] to all 0's
+	for i in range(1, n, 1):
+		C[A[i]] = C[A[i]] + 1
+
+	for i in range(1, k, 1):
+		# Output i for C[i] times
+```
+- Initializing an array takes at worst $O(k)$ time
+- First for loop occurs in $O(n)$ time
+- Second for loop occurs in $O(n + k)$ time
+
