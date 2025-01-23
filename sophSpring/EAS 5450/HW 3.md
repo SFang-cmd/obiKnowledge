@@ -1,0 +1,5 @@
+- Describe the evolution of Charles Ferguson’s original idea to Vermeer’s eventual product. What market opportunities and competitive forces drove the evolution?
+- What were the sources and amounts of capital for Vermeer from its inception in late 1993 through the end of the (C) case in December 1995?
+- Describe the working climate within Vermeer during the time of the (B) case? Was this a company you would want to work for at that time? Why?
+- What was Vermeer’s marketing strategy as described in the (B) case?
+- Vermeer was facing 4 alternative courses of action in the (C) case. What were the pros and cons of these several alternatives? What about the pros and cons from Microsoft’s perspective?
