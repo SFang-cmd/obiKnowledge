@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophSpring/MGMT 2640/(Lecture 3).md",
+                "file": "sophSpring/CIS 3200/(Lecture 3) Sorting (Cont'd).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Lecture 3)"
+              "title": "(Lecture 3) Sorting (Cont'd)"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "500905892a0647b8",
   "lastOpenFiles": [
-    "sophSpring/MGMT 2640/(Lecture 2) Intro to VC.md",
+    "sophSpring/CIS 3200/(Lecture 2) Review of Sorting Algorithms.md",
+    "sophSpring/CIS 3200/(Lecture 3) Sorting (Cont'd).md",
     "sophSpring/MGMT 2640/(Lecture 3).md",
+    "sophSpring/MGMT 2640/(Lecture 2) Intro to VC.md",
     "sophSpring/EAS 5450/HW 2.md",
     "sophSpring/EAS 5450/(Lecture 2) Aggasiz, Stevenson, Peter Drucker.md",
     "freshSpring/CIS2620/Time Complexity.md",
@@ -188,7 +190,6 @@
     "freshFall/cis1600/Graph Theory/Coloring/Graph Coloring.md",
     "sophSpring/EAS 5450/(Lecture 3) Vermeer.md",
     "sophSpring/EAS 5450/HW 3.md",
-    "sophSpring/CIS 3200/(Lecture 2) Review of Sorting Algorithms.md",
     "sophSpring/CIS 3200/(Lecture 1) 1210 Review.md",
     "sophSpring/CIS 1921/Solving Hard Problems Intro.md",
     "sophSpring/CIS 3500/Intro.md",
@@ -213,7 +214,6 @@
     "sophFall/STAT4300/(Lecture 9) Random Variables.md",
     "sophFall/STAT4300/(Lecture 12) Expectation of Random Variables Cont'd.md",
     "sophFall/STAT4300/(Lecture 13) Poisson Distribution.md",
-    "sophFall/CIS2400/Review.md",
     "Pasted image 20241007113058.png",
     "Pasted image 20241007111030.png",
     "Pasted image 20240930112624.png",
