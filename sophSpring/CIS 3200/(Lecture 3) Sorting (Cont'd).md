@@ -78,4 +78,17 @@ A similar argument shows that rank of $m*$ is $\leq \frac{3n}{4}$
 
 #### Runtime Analysis
 - Partitioning and initial median calculation takes $O(n)$
-- New array creation tak
+- New array creation of array M takes $O(n)$
+- Calling select recursively takes $T\left( \frac{n}{5} \right)$
+- Use $m*$ as the pivot
+
+$T(n) = T\left( \frac{3n}{4} \right) + T\left( \frac{n}{5} \right) + O(n)$
+**Substitution Method**
+- We will show $T(n) \leq cn$ for some constant $c$
+- **Base Case:** $n \leq 60$. Choose $c$ to be large enough to cover the runtime for iterations of size $\leq 60$
+- **Inductive Step:** Assume that for all $n' < n$, we have $T(n') \leq cn'$
+	- $T(n)=T\left( \frac{3n}{4} \right) + T\left( \frac{n}{5} \right) + c_{1}n$
+	- $\frac{3cn}{4} + \frac{cn}{5} + c_{1}n$
+	- $= \frac{19cn}{20} + c_{1}n \leq cn$ (This is what we need)
+	- $c \geq 20c_{1}$
+
