@@ -24,3 +24,13 @@ $Post-Money\;Valuation = Pre-Money\;Valuation+Investment$
 	- But Tandey also cannot do anything with it
 
 ___Adaptations and business methods may be patentable___
+
+#### Copyright
+- Source Code
+- Documentation
+- "Swipe library"
+- "Trade dress"
+	- text
+	- images
+	- packaging
+
