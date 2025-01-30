@@ -26,4 +26,9 @@
 - "A symbol, word, or words legally registered or established by use in a company product"
 - The trademark reflects its brand
 
-## Trade secr
+## Trade Secrets & Confidentiality
+- Has to be used in a commercial context
+
+### Trade Secrets have a specific, legal definition
+- Any formula, pattern, device, or compilation of information which is used in one's business and which gives him an opportunity to obtain an advantage
+
