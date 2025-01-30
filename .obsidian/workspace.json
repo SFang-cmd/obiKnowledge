@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophSpring/EAS 5450/HW 5.md",
+                "file": "sophSpring/EAS 5450/(Lecture 5) Product Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW 5"
+              "title": "(Lecture 5) Product Development"
             }
           }
         ],
@@ -193,11 +193,12 @@
   },
   "active": "618c99c65f0c14cf",
   "lastOpenFiles": [
-    "sophSpring/CIS 3200/(Lecture 4) Master's Theorem and Hashing.md",
+    "sophSpring/EAS 5450/(Lecture 4) Palm Computing.md",
+    "sophSpring/EAS 5450/(Lecture 5) Product Development.md",
     "sophSpring/EAS 5450/HW 5.md",
+    "sophSpring/CIS 3200/(Lecture 4) Master's Theorem and Hashing.md",
     "sophSpring/MGMT 2640/(Lecture 4) IP Law.md",
     "sophSpring/MGMT 2640/(Lecture 1) Intro.md",
-    "sophSpring/EAS 5450/(Lecture 4) Palm Computing.md",
     "sophSpring/EAS 5450/HW 4.md",
     "sophSpring/EAS 5450/HW 3.md",
     "sophSpring/EAS 5450/(Lecture 3) Vermeer.md",
@@ -228,7 +229,6 @@
     "sophFall/OIDD3140/(Lecture 1) Internet Policy and Ethics.md",
     "forFun",
     "forFun/comedy",
-    "sophFall/CIS2400/(Lecture 15) RISC-V Instruction Overview.md",
     "Pasted image 20241007113058.png",
     "Pasted image 20241007111030.png",
     "Pasted image 20240930112624.png",
