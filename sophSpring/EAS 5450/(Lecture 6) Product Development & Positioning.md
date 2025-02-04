@@ -57,3 +57,25 @@
 - Majority of revenue comes from the **Early and Late Majority**
 - Make sure to segment
 
+### Build the context of your market top down TAM, SAM, SOM (but don't kid yourself)
+- Concentric Circles:
+	- **Industry & Market** is broadest context for your product or venture (The world in which you live)
+	- **TAM** is the universe of possible customers for your product or service (Largest number you can sell to)
+	- **SAM** represent the customers you can reach with your marketing strategy and plan (including sales channel) (those you can reach with marketing choices made)
+	- **SOM** represent the portion of the **SAM** you can reasonable obtain
+	- **Target Market** is your most likely segment of customers
+- Want to build it bottom-up (reality)
+	- Define beachhead segment (highest perceived value)
+	- Need to sell individual units first, then expand
+
+### Create value via positioning
+- Positioning = Segmentation + Differentiation
+
+### "If you're marketing-intensive, the product is bought. If it's sales-intensive, the product is sold"
+- Marketing means putting your product out there and getting people to see the product to buy it (push)
+- Sales means really pulling in your clients for buying your product (pull)
+
+### The Marketing --> Sales Funnel
+- It is a numbers game and you need to work it
+- Where are they right now? What are you trying to do to reach the next step?
+
