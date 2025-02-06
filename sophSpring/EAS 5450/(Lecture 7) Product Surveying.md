@@ -37,4 +37,10 @@
 
 **ZWIFT concept test outcome?**
 - ZWIFT cancels smart bike hardware plans, announces significant layoffs
+
+### Concept Testing
+- Most important questions is the **willingness to pay question**
+- Conjoint analysis: Provides insight about underlying preferences (what tradeoffs are you willing to take?)
+
+- Put most important information at the top
 - 
