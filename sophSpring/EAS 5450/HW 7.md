@@ -80,4 +80,19 @@
 ### Limits to Lean Startup Methods
 
 #### When Mistakes Must be Limited
+- No post-launch ability to correct mistakes
+- When mistakes could cause customers to fail mission-critical activities
+	- Gmail can't lose 1% of emails
+	- Dropbox cannot be out of service for a few minutes
+- When there is limited societal tolerance for mistakes
+	- Medical trials
+
+#### When Demand Uncertainty is Low
+- Strong unmet need means not too much unpredictability
+
+#### When Demand Uncertainty is High but Development Cycles are Long
+- Can't develop short and fast prototypes
+
+### Dropbox
+**To what cognitive biases are entrepreneurs particularly susceptible? How did Dropbox mitigate them to achieve success? Provide specific examples from the case.**
 - 
