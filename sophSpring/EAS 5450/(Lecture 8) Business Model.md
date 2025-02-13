@@ -30,5 +30,11 @@
 	- Perish - kill and avoid wasting resources, time
 	- Pivot - Change product idea
 
-
-- 
+### Test Hypotheses
+- Video demo of product
+	- Loss of data is high risk test interest
+- Usability Tests
+	- How do others view "ease of-use"?
+- A/B testing
+	- Variations: foat, fxn, msg
+	- %A, (1 - % of B)
