@@ -63,4 +63,21 @@ d) Topological Sort
 	- Run $DFS(G)$
 	- Arrange vertices in decreasing order of finish times
 	- **Claim:** In any DAG (Directed Acyclic Graph), for any edge $(u,v), f(u) > f(v)$ in $DFS(G)$
-	- 
+	- **Proof:** Consider any edge $(u,v)$. Cosider when this edge is discovered by $DFS(G)$. At this point, $color(u)=gray$
+		- If $col(v)$ is white, then $f(u) > f(v)$
+		- If $col(v)$ is black, $f(u)>f(v)$
+		- If $col(v)$ is gray, Can't happen because $G$ is acyclic
+e) Strongly connected components in a directed graph
+- SCC Graph
+	- Suppose $G$ has $k$ strongly connected components, say $C_{1}C_{2}\dots C_{k}$.
+	- Then the SCC graph of $G$ is another directed graph $H(V',E')$
+	- $V'=\{v_{1}v_{2}\dots v_{k}\}$ where $v_{i}$ represents $C_{i}$
+	- $E'=\{(v_{i},v_{j})\text{ if there is an edge from a vertex in } C_{i} \text{ to a vertex in } C_{j}\}$
+
+Extending finish times notion to SCC's
+- $f(C_{i})=$ largest finish time over all vertices in $C_{i}$
+- **Claim:** Suppose $C_{i} \to C_{j}$ in $G$
+	- Then $f(C_{i})>f(C_{j})$
+- **Proof:** Case 1: Among all vertices in $C_{i} \cup C_{j}$, suppose the first vertex visited in $DFS(G)$ is in $C_{j}$
+	- Case 2: The first inserted vertex is in $C_{i}$ where $f(C_{i}) > f(C_{j})$
+
