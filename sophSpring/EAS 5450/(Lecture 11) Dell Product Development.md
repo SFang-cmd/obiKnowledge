@@ -24,4 +24,18 @@
 - **Collection period (lower)**
 	- Number of days it takes to convert receivables into cash
 	- If the number of days decreases, **money will be in company accounts faster instead of customer accounts**
-	- 
+
+#### Cash Conversion Cycle (CCC)
+- Reports how long your cash will be tied up
+- Not available to you for growing business
+	- $DPO: Days\;payable\;oustanding = \frac{Accts\;Payable}{\frac{COGS}{365}}$
+	- DOI: Days of Inventory = Inventory / (COGS/365)
+	- DCP: Days Collection Period = Accts Receivable / (Sales/365)
+	- $CCC = DOI + DCP - DPO$
+- Dell's Cash Conversion Cycle was **Negative**
+	- Meant they didn't need funding because they were so cash positive
+
+#### All of Dell's Innovations Led to Cost Leadership
+- Basically their innovations were between sales to and from suppliers and Dell
+- Still have better inventory management
+
