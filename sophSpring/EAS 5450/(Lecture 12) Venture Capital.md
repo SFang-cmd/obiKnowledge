@@ -51,3 +51,10 @@ A dollar today is worth more than a dollar in the future
 - Pre-Money Valuation = (Post-Money Valuation) - (Investment)
 - $ROI=\left( \frac{\text{\$ Total Returns}}{\text{\$ Total invested}} \right)^{1/years}$
 
+### VC's worry most about the risk they *cannot control*
+- **Market - Biggest one that you CAN'T just throw money at**
+- Technical
+- Team
+- Operational
+- Financial
+
