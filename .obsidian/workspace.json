@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophSpring/CIS 3200/(Lecture 6) Dynamic Programming.md",
+                "file": "sophSpring/CIS 3200/(Lecture 4) Master's Theorem and Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Lecture 6) Dynamic Programming"
+              "title": "(Lecture 4) Master's Theorem and Hashing"
             }
           }
         ]
@@ -179,10 +179,10 @@
   },
   "active": "7818312b77f75913",
   "lastOpenFiles": [
-    "sophSpring/CIS 3200/(Lecture 7) Greedy Algorithms.md",
-    "sophSpring/CIS 3200/(Lecture 6) Dynamic Programming.md",
-    "sophSpring/CIS 3200/(Lecture 8) Graphs.md",
     "sophSpring/CIS 3200/(Lecture 3) Sorting (Cont'd).md",
+    "sophSpring/CIS 3200/(Lecture 6) Dynamic Programming.md",
+    "sophSpring/CIS 3200/(Lecture 7) Greedy Algorithms.md",
+    "sophSpring/CIS 3200/(Lecture 8) Graphs.md",
     "sophSpring/CIS 3200/(Lecture 4) Master's Theorem and Hashing.md",
     "sophSpring/CIS 3200/(Lecture 2) Review of Sorting Algorithms.md",
     "sophSpring/CIS 3200/(Lecture 1) 1210 Review.md",
