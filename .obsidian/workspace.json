@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coloring",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "f7d89ed2201c1efd",
@@ -195,8 +194,14 @@
   },
   "active": "dbb257a53fc59857",
   "lastOpenFiles": [
-    "sophSpring/EAS 5450/(Lecture 13) Venture Planning.md",
+    "sophSpring/EAS 5450/(Lecture 16) IPO & Palm.md",
     "sophSpring/EAS 5450/HW15 - Innovating.md",
+    "sophSpring/EAS 5450/HW 6.md",
+    "sophSpring/EAS 5450/HW 2.md",
+    "sophSpring/EAS 5450/(Lecture 6) Product Development & Positioning.md",
+    "sophSpring/EAS 5450/(Lecture 5) Product Development.md",
+    "sophSpring/EAS 5450/(Lecture 4) Palm Computing.md",
+    "sophSpring/EAS 5450/(Lecture 13) Venture Planning.md",
     "sophSpring/EAS 5450/HW 14 - Negotiations.md",
     "sophSpring/EAS 5450/(Lecture 14) Investment Negotiations.md",
     "sophSpring/CIS 3200/(Lecture 4) Master's Theorem and Hashing.md",
@@ -210,21 +215,15 @@
     "Pasted image 20250225103402.png",
     "sophSpring/EAS 5450/(Lecture 3) Vermeer.md",
     "sophSpring/EAS 5450/HW 3.md",
-    "sophSpring/EAS 5450/HW 2.md",
     "sophSpring/EAS 5450/(Lecture 11) Dell Product Development.md",
     "sophSpring/CIS 3200/(Lecture 9) DFS and BFS.md",
     "sophSpring/EAS 5450/(Lecture 10) Dell.md",
     "sophSpring/CIS 3200/(Lecture 5) Hashing Continued.md",
     "sophSpring/EAS 5450/(Lecture 9) LinkedIn.md",
     "sophSpring/EAS 5450/(Lecture 8) Business Model.md",
-    "sophSpring/EAS 5450/HW 8.md",
-    "sophSpring/EAS 5450/HW 7.md",
-    "sophSpring/CIS 1921/(Lecture 3).md",
     "Pasted image 20250211015458.png",
     "Pasted image 20250211015333.png",
     "Pasted image 20250211015325.png",
-    "sophSpring/EAS 5450/HW 6.md",
-    "sophSpring/EAS 5450/(Lecture 7) Product Surveying.md",
     "sophSpring/EAS 5450",
     "sophSpring/CIS 1921",
     "sophSpring/EAS 2420",
