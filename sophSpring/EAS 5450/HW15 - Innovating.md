@@ -34,4 +34,3 @@
 - What do you see as the major drawbacks to your choice?
 	- The major drawbacks for the Alpha Computers choice is that the money being raised is at a \$30 million dollar valuation, which is the same as the post-money valuation of their previous round of funding. This stagnation along with the fact that USR is offering a total premium of \$50 million in their valuation of Palm means that taking this deal would mean accepting a worse deal, allowing higher equity for Alpha Computers and potential Term Sheet disagreements.
 - What would the cap table look like for the various options? To help you, I am including a table summarizing Palm’s first three rounds of funding:
-	1. 
