@@ -40,3 +40,25 @@
 - Basically just make a startup but you don't know what you're building
 - Realized that everyone hates their investment fund managers
 
+### Maybern Timeline
+- Raised \$4.3M before hiring anyone - **How?**
+	- Relationships and Storytelling
+	- Need the right team, right capital, and right clients
+- You mentioned that you raised \$5M before hiring anyone, what sorts of things were you doing early on? Were you primarily developing tech? Or making strong connections? And in general how do you balance everything you need to do?
+- Relationships are the best compensating factor - Build strong relationships everywhere
+
+### Hiring
+- Speak to every talented person you know
+	- "Who are the 3 people who'd absolutely work with again?"
+- Let time pass between first meeting and second meeting
+	- Time allows them to see progress and tells your story for you
+- Leverage credible backers to close
+	- Put investors and advisors to work closing candidates
+- Talented people want to work with talented people
+	- Your first few hires set the tone for the rest of your company
+	- Hire great people and it snowballs
+- Know who's making the decision
+	- Especially with senior hires, families are an extremely important part of the decision process
+	- Meet them
+	- Show them why they should trust you
+
