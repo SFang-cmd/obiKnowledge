@@ -51,4 +51,17 @@ $S$ is a vertex cover of $G$ if $\forall (u,v) \in E$, we have $|S \cap \{u,v\}|
 **Theorem:** For any finite $\alpha$, if there is an $\alpha$-approximation algorithm for TSP, then $P = NP$
 **Proof:** Suppose there is a poly-time $\alpha$-approximation algorithm $A$ for $TSP$ for some finite value of $\alpha$
 
-We will use $A$ to solve Hamiltonian cy
+- We will use $A$ to solve Hamiltonian cycle problem in poly-time
+- Let $G(V,E)$ be an instance of the Hamiltonian Cycle problem
+- Create a TSP instance $G'(V,E')$ where $E'$ is set of all possible edges on $V$
+
+**Define:** $c(u,v) = \{0, if (u,v) \in E; 1, if (u,v) \not\in E\}$
+
+**Case 1:** Suppose $G$ has a Hamiltonian cycle. Then optimal TSP cost in $G'$ is $0$. So if we run $A$ on $G'$, we must get a solution of cost $\leq \alpha * 0 = 0$
+
+**Case 2:** Suppose $G$ does not have a Hamiltonian cycle. Then $OPT$ TSP cost $\geq 1$. $\implies$ Any solution that $A$ outputs has cost $\geq 1$
+
+### Metric TSP
+- A TSP instance where the cost function $c$ satisfies triangle inequality
+- $\forall x,y \geq V$, $c(x,z) \leq c(x,y) + c(y,z)$
+
