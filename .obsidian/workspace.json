@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophSpring/CIS 3200/(Lecture 23) Approximation Algorithms.md",
+                "file": "sophSpring/EAS 5450/(Lecture 24) Sun vs MIPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Lecture 23) Approximation Algorithms"
+              "title": "(Lecture 24) Sun vs MIPS"
             }
           }
         ]
@@ -191,9 +191,10 @@
   },
   "active": "dbb257a53fc59857",
   "lastOpenFiles": [
+    "sophSpring/CIS 3200/(Lecture 23) Approximation Algorithms.md",
+    "sophSpring/EAS 5450/(Lecture 24) Sun vs MIPS.md",
     "Pasted image 20250416162008.png",
     "sophSpring/CIS 3200/(Lecture 22) Vertex Cover Problem.md",
-    "sophSpring/CIS 3200/(Lecture 23) Approximation Algorithms.md",
     "sophSpring/EAS 5450/(Lecture 14) Investment Negotiations.md",
     "sophSpring/CIS 3200/(Lecture 19) Poly-time Reductions.md",
     "sophSpring/EAS 5450/(Lecture 21) Tobias Dengel.md",
@@ -235,7 +236,6 @@
     "Pasted image 20241007113058.png",
     "Pasted image 20241007111030.png",
     "Pasted image 20240930112624.png",
-    "sophFall/CIS5190/Pasted image 20240925111204.png",
-    "sophFall/CIS5190/Pasted image 20240925105147.png"
+    "sophFall/CIS5190/Pasted image 20240925111204.png"
   ]
 }
