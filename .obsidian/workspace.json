@@ -11,14 +11,12 @@
             "id": "dbb257a53fc59857",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "sophSpring/CIS 3200/(Lecture 24) Metric TSP.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250416162008.png"
               },
-              "icon": "lucide-file",
-              "title": "(Lecture 24) Metric TSP"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250416162008"
             }
           }
         ]
@@ -191,8 +189,9 @@
   },
   "active": "dbb257a53fc59857",
   "lastOpenFiles": [
-    "sophSpring/EAS 5450/(Lecture 24) Sun vs MIPS.md",
     "sophSpring/CIS 3200/(Lecture 24) Metric TSP.md",
+    "techIndustry",
+    "sophSpring/EAS 5450/(Lecture 24) Sun vs MIPS.md",
     "sophSpring/CIS 3200/(Lecture 23) Approximation Algorithms.md",
     "Pasted image 20250416162008.png",
     "sophSpring/CIS 3200/(Lecture 22) Vertex Cover Problem.md",
@@ -218,7 +217,6 @@
     "sophSpring/CIS 3200/(Lecture 4) Master's Theorem and Hashing.md",
     "sophSpring/CIS 3200/(Lecture 3) Sorting (Cont'd).md",
     "sophSpring/CIS 3200/(Lecture 6) Dynamic Programming.md",
-    "sophSpring/CIS 3200/(Lecture 7) Greedy Algorithms.md",
     "Pasted image 20250225103402.png",
     "Pasted image 20250211015458.png",
     "Pasted image 20250211015333.png",
@@ -232,7 +230,6 @@
     "sophSpring/MGMT 2640",
     "sophSpring",
     "forFun",
-    "forFun/comedy",
     "Pasted image 20241007113058.png",
     "Pasted image 20241007111030.png",
     "Pasted image 20240930112624.png",
