@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sophSpring/CIS 3200/(Lecture 9) DFS and BFS.md",
+                "file": "sophSpring/EAS 5450/HW 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Lecture 9) DFS and BFS"
+              "title": "HW 2"
             }
           }
         ],
@@ -199,16 +199,17 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "5842fabc57d57b48",
   "lastOpenFiles": [
+    "sophSpring/EAS 5450/(Lecture 2) Aggasiz, Stevenson, Peter Drucker.md",
+    "sophSpring/EAS 5450/(Lecture 3) Vermeer.md",
+    "sophSpring/EAS 5450/(Lecture 5) Product Development.md",
+    "sophSpring/CIS 3200/(Lecture 9) DFS and BFS.md",
     "sophSpring/CIS 3200/(Lecture 17) Flow Algorithms.md",
     "sophSpring/CIS 3200/(Lecture 16) Flow Networks.md",
-    "sophSpring/CIS 3200/(Lecture 9) DFS and BFS.md",
     "sophSpring/CIS 3200/(Lecture 8) Graphs.md",
     "sophSpring/CIS 3200/(Lecture 7) Greedy Algorithms.md",
     "sophSpring/CIS 3200/(Lecture 6) Dynamic Programming.md",
@@ -217,7 +218,6 @@
     "sophSpring/CIS 3200/(Lecture 3) Sorting (Cont'd).md",
     "sophSpring/CIS 3200/(Lecture 2) Review of Sorting Algorithms.md",
     "sophSpring/CIS 3200/(Lecture 1) 1210 Review.md",
-    "sophSpring/EAS 5450/(Lecture 2) Aggasiz, Stevenson, Peter Drucker.md",
     "sophSpring/EAS 5450/HW 2.md",
     "sophFall/MGMT2670/(Lecture 3) IP & How to Profit from New Technology?.md",
     "sophFall/MGMT2670/(Lecture 2) Inventions & Entrepreneurs.md",
@@ -233,8 +233,6 @@
     "sophSpring/EAS 5450/(Lecture 14) Investment Negotiations.md",
     "sophSpring/CIS 3200/(Lecture 19) Poly-time Reductions.md",
     "sophSpring/EAS 5450/(Lecture 21) Tobias Dengel.md",
-    "sophSpring/EAS 5450/(Lecture 20) NanoGene and Sweat Equity.md",
-    "sophSpring/EAS 5450/(Lecture 6) Product Development & Positioning.md",
     "IMG_7047.jpeg",
     "Pasted image 20250225103402.png",
     "Pasted image 20250211015458.png",
