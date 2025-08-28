@@ -50,3 +50,17 @@ Example: ![[IMG_9585.jpeg]]
 - Definition: A graph with $n$ vertices in which each vertex is adjacent to all vertices is called the **complete graph** on $n$ vertices, denoted $K_{n}$
 	- in fact, in our example, we have a $K_{2}$ and a $K_{4}$ joined at one vertex
 ![[IMG_9587.jpeg]]
+- Question: are the two graphs isomorphic or not?
+- **Use the AC Principle:**
+	- If they are to be isomorphic, the necessary condition is the same number of vertices and the same number of edges **(8 vertices, 10 edges)**
+	- Degrees of the corresponding vertices would have to be the same. What are the degrees?
+		- $b, d, f, h$ and $3,4,7,8$ have degree 2
+		- Other vertices have degree 3
+	- The subgraphs of degree 2 vertices would have to be isomorphic themselves
+- ![[IMG_9588.jpeg]]
+- Isomorphic or not?
+- **Use the graph complement:**
+	- Definition: the **complement** of the graph $G=(V,E)$ is the graph $\bar{G}=(V,\bar{E})$ with the same set of vertices but now with edges between exactly those pairs of vertices **not** linked by an edge in $G$.
+**Notes:**
+1. The union of $G$ and its complement $\bar{G}$ is a complete graph
+2. Graphs $G$ and $G'$ are isomorphic exactly when their complements $\bar{G}$ and $\bar{G'}$ are isomorphic
