@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "HW 2"
             }
+          },
+          {
+            "id": "bf42e75ac7bc4125",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,8 +217,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5842fabc57d57b48",
+  "active": "6ac84b161aa31f34",
   "lastOpenFiles": [
+    "Untitled",
     "sophSpring/EAS 5450/(Lecture 3) Vermeer.md",
     "sophSpring/EAS 5450/(Lecture 2) Aggasiz, Stevenson, Peter Drucker.md",
     "sophSpring/EAS 5450/(Lecture 5) Product Development.md",
@@ -245,7 +258,6 @@
     "sophFall/MGMT2670/(Lecture 3) IP & How to Profit from New Technology?.md",
     "sophFall/MGMT2670/(Lecture 2) Inventions & Entrepreneurs.md",
     "sophFall/MGMT2670/(Lecture 1) Intro to Technology Entrepreneurship.md",
-    "sophFall/OIDD3140/(Lecture 1) Internet Policy and Ethics.md",
     "Pasted image 20240930112624.png",
     "techIndustry",
     "sophSpring/EAS 5450",
