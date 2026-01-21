@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Day 2 - (Pre)Transformers"
             }
+          },
+          {
+            "id": "9a78975e6c0abf0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "juniorSpring/ESE6500/Lecture 1 - What is Robotics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1 - What is Robotics"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -247,8 +261,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "557a317de4f9695b",
+  "active": "9a78975e6c0abf0e",
   "lastOpenFiles": [
+    "juniorSpring/ESE6500/Lecture 1 - What is Robotics.md",
+    "juniorSpring/ESE6500",
     "juniorSpring/CIS6200/CIS 6200 - Beginning of the End.md",
     "juniorSpring/CIS6200/Day 2 - (Pre)Transformers.md",
     "juniorSpring/NETS1500/Graph Theory.md",
@@ -290,10 +306,8 @@
     "sophSpring/CIS 3200/(Lecture 3) Sorting (Cont'd).md",
     "sophSpring/CIS 3200/(Lecture 2) Review of Sorting Algorithms.md",
     "sophSpring/CIS 3200/(Lecture 1) 1210 Review.md",
-    "sophFall/MGMT2670/(Lecture 3) IP & How to Profit from New Technology?.md",
     "Pasted image 20240930112624.png",
     "techIndustry",
-    "sophSpring/EAS 5450",
-    "sophSpring/CIS 1921"
+    "sophSpring/EAS 5450"
   ]
 }
