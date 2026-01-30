@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "juniorSpring/ESE6500/Lecture 1 - What is Robotics.md",
+                "file": "juniorSpring/CIS6200/Day 3 - Transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - What is Robotics"
+              "title": "Day 3 - Transformers"
             }
           }
         ],
@@ -263,10 +263,11 @@
   },
   "active": "9a78975e6c0abf0e",
   "lastOpenFiles": [
+    "juniorSpring/CIS6200/Day 2 - (Pre)Transformers.md",
+    "juniorSpring/CIS6200/Day 3 - Transformers.md",
+    "juniorSpring/CIS6200/CIS 6200 - Beginning of the End.md",
     "juniorSpring/ESE6500/Lecture 1 - What is Robotics.md",
     "juniorSpring/ESE6500",
-    "juniorSpring/CIS6200/CIS 6200 - Beginning of the End.md",
-    "juniorSpring/CIS6200/Day 2 - (Pre)Transformers.md",
     "juniorSpring/NETS1500/Graph Theory.md",
     "juniorSpring/CIS6200",
     "juniorSpring/NETS1500",
@@ -305,7 +306,6 @@
     "sophSpring/CIS 3200/(Lecture 4) Master's Theorem and Hashing.md",
     "sophSpring/CIS 3200/(Lecture 3) Sorting (Cont'd).md",
     "sophSpring/CIS 3200/(Lecture 2) Review of Sorting Algorithms.md",
-    "sophSpring/CIS 3200/(Lecture 1) 1210 Review.md",
     "Pasted image 20240930112624.png",
     "techIndustry",
     "sophSpring/EAS 5450"
